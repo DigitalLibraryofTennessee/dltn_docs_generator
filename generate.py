@@ -1,5 +1,7 @@
 from repox.repox import Repox
 import yaml
+from tqdm import tqdm
+from emoji import emojize
 
 settings = yaml.load(open("config.yml", "r"))
 repox_connection = Repox(settings["repox"], settings["username"], settings["password"])
@@ -10,8 +12,15 @@ class DLTN:
         self.providers = repox_connection.get_list_of_providers(aggregator_id, True)
 
     def generate_rst_page_for_each_provider(self):
-        for provider in self.providers:
-            with open(f"temp_docs/{provider['id']}.rst", "w+") as provider_rst_file:
+        print(
+            emojize(
+                "\n\n\t:snake: Generating documentation for Digital Library of Tennessee providers: :snake:\n"
+            )
+        )
+        for provider in tqdm(self.providers):
+            with open(
+                f"docs/providers/{provider['id']}.rst", "w+"
+            ) as provider_rst_file:
                 provider_rst_file.write(f'{provider["name"]}\n')
                 provider_rst_file.write("=" * len(provider["name"]))
                 provider_rst_file.write(f"\n\nDetails\n-------\n\n")
