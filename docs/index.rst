@@ -3,6 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+====================================================
 Digital Library of Tennessee Technical Documentation
 ====================================================
 
@@ -10,6 +11,15 @@ Digital Library of Tennessee Technical Documentation
    :maxdepth: 2
    :caption: Contents:
 
+
+Providers
+=========
+
+.. toctree::
+   :maxdepth: 1
+   :glob:
+
+   providers/*
 
 
 Indices and tables
