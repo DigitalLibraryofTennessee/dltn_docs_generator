@@ -3,7 +3,7 @@ import yaml
 from tqdm import tqdm
 from emoji import emojize
 
-settings = yaml.load(open("config.yml", "r"))
+settings = yaml.safe_load(open("config.yml", "r"))
 repox_connection = Repox(settings["repox"], settings["username"], settings["password"])
 
 
