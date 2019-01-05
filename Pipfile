@@ -12,6 +12,7 @@ requests = "*"
 black = "*"
 "flake8" = "*"
 sphinx = "*"
+sphinxcontrib-napoleon = "*"
 
 [requires]
 python_version = "3.7"
