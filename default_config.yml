@@ -1,3 +1,4 @@
 repox: "http://localhost:8080"
 username: "username"
 password: "password"
+generate_mods_count: False
