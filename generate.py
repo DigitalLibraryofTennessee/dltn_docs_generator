@@ -2,9 +2,13 @@ from repox.repox import Repox
 import yaml
 from tqdm import tqdm
 from emoji import emojize
+import requests
 
 settings = yaml.safe_load(open("config.yml", "r"))
 repox_connection = Repox(settings["repox"], settings["username"], settings["password"])
+in_dpla = requests.get(
+    "https://raw.githubusercontent.com/dpla/ingestion/develop/profiles/tn.pjs"
+).json()["sets"]
 
 
 class DLTN:
@@ -56,11 +60,13 @@ class DataSet:
         self.details = repox_connection.get_dataset_details(set_id)
         self.total_records = repox_connection.count_records_in_dataset(set_id)
         self.last_ingest_date = repox_connection.get_last_ingest_date_of_set(set_id)
+        self.in_dpla = self.__in_dpla(set_id)
 
     # TODO Add OAI Record Counter
     def generate_rst_for_set(self):
         dataset_details = (
             f"{self.details['name']}\n\n* **Record Total**: {self.total_records}\n"
+            f"* **In DPLA?**: {self.in_dpla}\n"
             f"* **Metadata format**: {self.details['dataSource']['metadataFormat']}\n"
             f"* **Last ingest date**: {self.last_ingest_date}\n"
             f"* **Dataset Type**: {self.details['dataSource']['dataSetType']}\n"
@@ -74,6 +80,13 @@ class DataSet:
                 f"* **OAI MODS Records**: \n\n"
             )
         return dataset_details
+
+    @staticmethod
+    def __in_dpla(id):
+        if id in in_dpla:
+            return True
+        else:
+            return False
 
 
 if __name__ == "__main__":
