@@ -15,6 +15,9 @@ Digital Library of Tennessee Technical Documentation
 Providers
 =========
 
+Below are details about DLTN's current list of intermediate providers.  Intermediate providers are institutions that
+provide records directly to the Digital Library of Tennessee.
+
 .. toctree::
    :maxdepth: 1
    :glob:
