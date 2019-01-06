@@ -1,2 +1,3 @@
 config.yml
 temp_docs/*
+docs/_build/*
