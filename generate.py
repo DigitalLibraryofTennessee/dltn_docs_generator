@@ -3,12 +3,14 @@ import yaml
 from tqdm import tqdm
 from emoji import emojize
 import requests
+import arrow
 
 settings = yaml.safe_load(open("config.yml", "r"))
 repox_connection = Repox(settings["repox"], settings["username"], settings["password"])
 in_dpla = requests.get(
     "https://raw.githubusercontent.com/dpla/ingestion/develop/profiles/tn.pjs"
 ).json()["sets"]
+now = arrow.utcnow().to("US/Eastern").format("YYYY-MM-DD")
 
 
 class DLTN:
@@ -41,7 +43,8 @@ class DLTN:
         )
         return (
             f"\nEmail: {current_provider['email']}\n\nDescription: {current_provider['description']}\n\nOAI "
-            f"endpoint: {current_provider['homepage']}\n\nTotal records: {total_records}"
+            f"endpoint: {current_provider['homepage']}\n\nTotal records in Repox: {total_records}\n\n"
+            f"Page last updated: {now}"
         )
 
     @staticmethod

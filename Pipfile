@@ -9,6 +9,7 @@ pyyaml = "*"
 requests = "*"
 tqdm = "*"
 emoji = "*"
+arrow = "*"
 
 [dev-packages]
 black = "*"
