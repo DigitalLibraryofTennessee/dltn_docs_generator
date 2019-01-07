@@ -77,14 +77,16 @@ class DataSet:
         )
         total_mods = 0
         if self.in_dpla is True and generate_total_mods is True:
-            counter = OAIMODSCounter(self.details['dataSource']['id'])
+            counter = OAIMODSCounter(self.details["dataSource"]["id"])
             counter.list_records()
             total_mods = counter.total_records
         if self.details["dataSource"]["dataSetType"] == "DIR":
             dataset_details += f"* **Source Directory**: {self.details['dataSource']['sourcesDirPath']}\n\n"
         elif self.details["dataSource"]["dataSetType"] == "OAI":
             dataset_details += (
-                f"* **OAI Endpoint**: {self.details['dataSource']['oaiSourceURL']}\n"
+                f"* **OAI Endpoint**: {self.details['dataSource']['oaiSourceURL']}?verb=ListRecords&set="
+                f"{self.details['dataSource']['oaiSet']}&metadataPrefix="
+                f"{self.details['dataSource']['metadataFormat']}\n"
                 f"* **OAI Set**: {self.details['dataSource']['oaiSet']}\n"
                 f"* **OAI MODS Records**: {total_mods}\n\n"
             )
@@ -102,14 +104,16 @@ class OAIMODSCounter:
     def __init__(self, set_name):
         self.set_name = set_name
         self.oai_base = "http://dpla.lib.utk.edu/repox/OAIHandler"
-        self.endpoint = f"{self.oai_base}?verb=ListRecords&metadataPrefix=MODS&set={set_name}"
+        self.endpoint = (
+            f"{self.oai_base}?verb=ListRecords&metadataPrefix=MODS&set={set_name}"
+        )
         self.token = ""
         self.status = "In Progress"
         self.total_records = 0
 
     def process_token(self, token):
         if len(token) == 1:
-            self.token = f'&resumptionToken={token[0].text}'
+            self.token = f"&resumptionToken={token[0].text}"
             return
         else:
             self.status = "Done"
@@ -118,8 +122,14 @@ class OAIMODSCounter:
     def list_records(self):
         r = requests.get(f"{self.endpoint}")
         oai_document = etree.fromstring(r.content)
-        self.process_token(oai_document.findall('.//{http://www.openarchives.org/OAI/2.0/}resumptionToken'))
-        self.total_records += len(oai_document.findall('.//{http://www.openarchives.org/OAI/2.0/}metadata'))
+        self.process_token(
+            oai_document.findall(
+                ".//{http://www.openarchives.org/OAI/2.0/}resumptionToken"
+            )
+        )
+        self.total_records += len(
+            oai_document.findall(".//{http://www.openarchives.org/OAI/2.0/}metadata")
+        )
         if self.status is not "Done":
             self.endpoint = f"{self.oai_base}?verb=ListRecords{self.token}"
             return self.list_records()
