@@ -20,6 +20,8 @@ class DLTN:
         self.providers = repox_connection.get_list_of_providers(aggregator_id, True)
 
     def generate_rst_page_for_each_provider(self):
+        """Iterates over providers from Repox and generates individual rst files.
+        """
         print(
             emojize(
                 "\n\n\t:snake: Generating documentation for Digital Library of Tennessee providers: :snake:\n"
@@ -37,9 +39,21 @@ class DLTN:
                 provider_rst_file.write(
                     self.__generate_dataset_details_section(provider["id"])
                 )
+        return
 
     @staticmethod
     def __generate_details_section(current_provider):
+        """Generates top-level details section about the provider of provider rst files.
+
+        Requires a provider and ruturns a details section based on that provider.
+
+        Args:
+            current_provider (dict): a dict of metadata about a provider
+
+        Returns:
+            str: a string of text for the details section
+
+        """
         total_records = repox_connection.count_records_from_provider(
             current_provider["id"]
         )
@@ -51,6 +65,17 @@ class DLTN:
 
     @staticmethod
     def __generate_dataset_details_section(provider_id):
+        """Generates the datasets details sections of provider rst files.
+
+        Requires a provider_id of a provider and returns markup for all the individual datasets in a provider rst.
+
+        Args:
+            provider_id (str): a string id that represents a provider
+
+        Returns:
+            str: a string of markup about all datasets of a provider
+
+        """
         dataset_details = ""
         for dataset in repox_connection.get_list_of_sets_from_provider(
             provider_id, True
@@ -94,6 +119,15 @@ class DataSet:
 
     @staticmethod
     def __in_dpla(identifier):
+        """Determines if a dataset is in DPLA.
+
+        Args:
+            identifier (str): the dataset_id of a dataset
+
+        Returns:
+            bool: True if it's in DPLA and False if it's not.
+
+        """
         if identifier in in_dpla:
             return True
         else:
@@ -112,14 +146,21 @@ class OAIMODSCounter:
         self.total_records = 0
 
     def process_token(self, token):
+        """Modifies self.token and self.status based on a OAI resumption token.
+
+        Args:
+            token (list): A list with either a len of 0 or 1.  If len is 1, the value of index 0 should be a
+            <Element {http://www.openarchives.org/OAI/2.0/}resumptionToken>
+
+        """
         if len(token) == 1:
             self.token = f"&resumptionToken={token[0].text}"
-            return
         else:
             self.status = "Done"
-            return
+        return
 
     def list_records(self):
+        """Function to process the OAI PMH ListRecords protocol."""
         r = requests.get(f"{self.endpoint}")
         oai_document = etree.fromstring(r.content)
         self.process_token(
