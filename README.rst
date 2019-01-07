@@ -1,6 +1,7 @@
-========================
-DLTN Repox Configuration
-========================
+===================
+DLTN Docs Generator
+===================
+
 
 .. image:: https://readthedocs.org/projects/dltn-technical-docs/badge/?version=latest
 
