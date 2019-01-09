@@ -106,15 +106,15 @@ class DataSet:
             counter.list_records()
             total_mods = counter.total_records
         if self.details["dataSource"]["dataSetType"] == "DIR":
-            dataset_details += f"* **Source Directory**: {self.details['dataSource']['sourcesDirPath']}\n\n"
+            dataset_details += f"* **Source Directory**: {self.details['dataSource']['sourcesDirPath']}\n"
         elif self.details["dataSource"]["dataSetType"] == "OAI":
             dataset_details += (
                 f"* **OAI Endpoint**: {self.details['dataSource']['oaiSourceURL']}?verb=ListRecords&set="
                 f"{self.details['dataSource']['oaiSet']}&metadataPrefix="
                 f"{self.details['dataSource']['metadataFormat']}\n"
                 f"* **OAI Set**: {self.details['dataSource']['oaiSet']}\n"
-                f"* **OAI MODS Records**: {total_mods}\n\n"
             )
+        dataset_details += f"* **OAI MODS Records**: {total_mods}\n\n"
         return dataset_details
 
     @staticmethod
