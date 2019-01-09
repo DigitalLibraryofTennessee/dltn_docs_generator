@@ -41,7 +41,7 @@ Metadata QA
 -----------
 
 Before new sets are added or existing sets are reharvested, all records from a set are piped into MongoDB using
-dltn_metadata_QA. This messy at best application provides an easy mechanism for us to understand metadata practices across
+`dltn_metadata_qa <https://github.com/markpbaggett/dltn_metadata_QA>`_. This messy at best application provides an easy mechanism for us to understand metadata practices across
 an entire collection.  variety.js is an additional tool that we use to analyze an entire collection and look for records
 that do not meet our minimum requirements.
 
