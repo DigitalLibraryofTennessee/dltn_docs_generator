@@ -19,15 +19,6 @@ This site serves as the home of the Digital Library of Tennessee's technical doc
 
 For more information about becoming a provider, see the `Digital Library of Tennessee Committee site <https://www.tenn-share.org/af_membercommittee.asp?committeeid=28>`_.
 
-
---------
-Metadata
---------
-
-* `Metadata Application Profile <https://drive.google.com/file/d/0B0gzQfRomUx2ekpubmQ3cEZEQWM/view>`_
-* `DLTN MODS to Map 4 <https://docs.google.com/spreadsheets/d/1BzZvDOf4fgas3TD21xF40lu2pk2XW0k2pTGJKIt6438/edit#gid=102934983>`_
-* Crosswalks
-
 --------------------
 Technical Procedures
 --------------------
