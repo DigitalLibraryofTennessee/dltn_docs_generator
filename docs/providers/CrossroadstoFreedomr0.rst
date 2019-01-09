@@ -1,19 +1,21 @@
-CrossroadstoFreedom
-===================
+Crossroads to Freedom
+=====================
 
 Details
 -------
 
 
-Email: 
+Email: ottj@rhodes.edu
 
-Description: 
+Description: contact: Jennifer Ott
+current platform: Fedora 2
+migrating to: DSPACE
 
 OAI endpoint: 
 
 Total records in Repox: 115785
 
-Page last updated: 2019-01-06
+Page last updated: 2019-01-08
 
 Datasets
 --------

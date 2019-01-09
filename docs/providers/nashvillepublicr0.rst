@@ -1,5 +1,5 @@
-Nashville Public Library
-========================
+Nashville Public Library and Metro Archives
+===========================================
 
 Details
 -------
@@ -13,7 +13,7 @@ OAI endpoint:
 
 Total records in Repox: 8614
 
-Page last updated: 2019-01-06
+Page last updated: 2019-01-08
 
 Datasets
 --------
@@ -25,7 +25,7 @@ Nashville Public Library nr
 * **Metadata format**: oai_dc
 * **Last ingest date**: 07/10/2015 18:13:23
 * **Dataset Type**: OAI
-* **OAI Endpoint**: http://nashville.contentdm.oclc.org/oai/oai.php
+* **OAI Endpoint**: http://nashville.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=nr&metadataPrefix=oai_dc
 * **OAI Set**: nr
 * **OAI MODS Records**: 7184
 
@@ -38,7 +38,7 @@ Nashville Public Library p15769coll18
 * **Metadata format**: oai_dc
 * **Last ingest date**: 07/10/2015 18:13:23
 * **Dataset Type**: OAI
-* **OAI Endpoint**: http://nashville.contentdm.oclc.org/oai/oai.php
+* **OAI Endpoint**: http://nashville.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15769coll18&metadataPrefix=oai_dc
 * **OAI Set**: p15769coll18
 * **OAI MODS Records**: 6
 

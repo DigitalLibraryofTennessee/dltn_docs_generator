@@ -5,15 +5,16 @@ Details
 -------
 
 
-Email: 
+Email: lboulie@countrymusichalloffame.org
 
-Description: 
+Description: contact: Lee Boulie
+platform: ContentDM
 
 OAI endpoint: http://digi.countrymusichalloffame.org/oai/oai.php
 
 Total records in Repox: 7927
 
-Page last updated: 2019-01-06
+Page last updated: 2019-01-08
 
 Datasets
 --------
