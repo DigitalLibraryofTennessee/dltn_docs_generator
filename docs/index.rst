@@ -11,9 +11,37 @@ Digital Library of Tennessee Technical Documentation
    :maxdepth: 2
    :caption: Contents:
 
+-----
+About
+-----
 
-Providers
-=========
+This site serves as the home of the Digital Library of Tennessee's technical documentation.
+
+For more information about becoming a provider, see the `Digital Library of Tennessee Committee site <https://www.tenn-share.org/af_membercommittee.asp?committeeid=28>`_.
+
+
+--------
+Metadata
+--------
+
+* `Metadata Application Profile <https://drive.google.com/file/d/0B0gzQfRomUx2ekpubmQ3cEZEQWM/view>`_
+* `DLTN MODS to Map 4 <https://docs.google.com/spreadsheets/d/1BzZvDOf4fgas3TD21xF40lu2pk2XW0k2pTGJKIt6438/edit#gid=102934983>`_
+* Crosswalks
+
+--------------------
+Technical Procedures
+--------------------
+
+.. toctree::
+   :maxdepth: 1
+   :glob:
+
+   procedures/*
+
+
+-----------------
+Current Providers
+-----------------
 
 Below are details about DLTN's current list of intermediate providers.  Intermediate providers are institutions that
 provide records directly to the Digital Library of Tennessee.
