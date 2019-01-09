@@ -16,10 +16,9 @@
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
-
 # -- Project information -----------------------------------------------------
 
-project = 'Digital Library of Tennessee Technical Documentation'
+project = 'dltn_docs_generator'
 copyright = '2019, Mark Baggett'
 author = 'Mark Baggett'
 
@@ -88,6 +87,12 @@ html_theme = 'alabaster'
 # documentation.
 #
 # html_theme_options = {}
+html_theme_options = {
+    "show_powered_by": False,
+    "github_user": "DigitalLibraryofTennessee",
+    "github_repo": "dltn_docs_generator",
+    "github_banner": True,
+}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
