@@ -17,6 +17,9 @@ to DLTN MODS and MAP v.4 to help providers ready their metadata for participatio
 Metadata Transformations
 ------------------------
 
+`DLTN_XSLT <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT>`_ is the Git repository where all current metadata
+transforms are maintained.
+
 ----------------------
 ContentDM IIIF Mapping
 ----------------------
