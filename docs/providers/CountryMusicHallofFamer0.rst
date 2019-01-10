@@ -14,7 +14,7 @@ OAI endpoint: http://digi.countrymusichalloffame.org/oai/oai.php
 
 Total records in Repox: 7927
 
-Page last updated: 2019-01-08
+Page last updated: 2019-01-10
 
 Datasets
 --------
@@ -27,6 +27,7 @@ cmhf_musicaudio
 * **Last ingest date**: 12/14/2018 08:56:32
 * **Dataset Type**: DIR
 * **Source Directory**: /vhosts/repoxdata/cmhf_qdc
+* **OAI MODS Records**: 7927
 
 
 

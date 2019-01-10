@@ -14,7 +14,7 @@ OAI endpoint:
 
 Total records in Repox: 17034
 
-Page last updated: 2019-01-08
+Page last updated: 2019-01-10
 
 Datasets
 --------

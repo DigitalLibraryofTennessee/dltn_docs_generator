@@ -13,7 +13,7 @@ OAI endpoint:
 
 Total records in Repox: 8614
 
-Page last updated: 2019-01-08
+Page last updated: 2019-01-10
 
 Datasets
 --------
@@ -52,6 +52,7 @@ nash_p15769coll19
 * **Last ingest date**: 12/14/2018 11:08:03
 * **Dataset Type**: DIR
 * **Source Directory**: /vhosts/repoxdata/nash_p15769coll19
+* **OAI MODS Records**: 1082
 
 
 

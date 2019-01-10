@@ -15,7 +15,7 @@ OAI endpoint:
 
 Total records in Repox: 115785
 
-Page last updated: 2019-01-08
+Page last updated: 2019-01-10
 
 Datasets
 --------
@@ -28,6 +28,7 @@ crossroads1
 * **Last ingest date**: 05/11/2017 12:50:26
 * **Dataset Type**: DIR
 * **Source Directory**: /vhosts/repoxdata/file_imports/1
+* **OAI MODS Records**: 0
 
 
 
@@ -39,6 +40,7 @@ crossroads2
 * **Last ingest date**: 05/11/2017 12:51:26
 * **Dataset Type**: DIR
 * **Source Directory**: /vhosts/repoxdata/file_imports/2
+* **OAI MODS Records**: 0
 
 
 
@@ -50,6 +52,7 @@ crossroads3
 * **Last ingest date**: 05/11/2017 12:52:26
 * **Dataset Type**: DIR
 * **Source Directory**: /vhosts/repoxdata/file_imports/3
+* **OAI MODS Records**: 0
 
 
 
@@ -61,6 +64,7 @@ crossroads4
 * **Last ingest date**: 05/11/2017 12:53:41
 * **Dataset Type**: DIR
 * **Source Directory**: /vhosts/repoxdata/file_imports/4
+* **OAI MODS Records**: 0
 
 
 
@@ -72,6 +76,7 @@ crossroads5
 * **Last ingest date**: 05/11/2017 12:55:11
 * **Dataset Type**: DIR
 * **Source Directory**: /vhosts/repoxdata/file_imports/5
+* **OAI MODS Records**: 0
 
 
 
@@ -83,6 +88,7 @@ crossroads6
 * **Last ingest date**: 05/11/2017 12:56:26
 * **Dataset Type**: DIR
 * **Source Directory**: /vhosts/repoxdata/file_imports/6
+* **OAI MODS Records**: 0
 
 
 
@@ -94,6 +100,7 @@ crossroads7
 * **Last ingest date**: 05/11/2017 12:57:26
 * **Dataset Type**: DIR
 * **Source Directory**: /vhosts/repoxdata/file_imports/7
+* **OAI MODS Records**: 0
 
 
 
@@ -105,6 +112,7 @@ crossroads8
 * **Last ingest date**: 05/11/2017 12:58:41
 * **Dataset Type**: DIR
 * **Source Directory**: /vhosts/repoxdata/file_imports/8
+* **OAI MODS Records**: 0
 
 
 
@@ -116,6 +124,7 @@ crossroads9
 * **Last ingest date**: 05/11/2017 12:59:41
 * **Dataset Type**: DIR
 * **Source Directory**: /vhosts/repoxdata/file_imports/9
+* **OAI MODS Records**: 0
 
 
 

@@ -13,7 +13,7 @@ OAI endpoint: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl
 
 Total records in Repox: 25691
 
-Page last updated: 2019-01-08
+Page last updated: 2019-01-10
 
 Datasets
 --------
