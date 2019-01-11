@@ -45,6 +45,13 @@ Before new sets are added or existing sets are reharvested, all records from a s
 an entire collection.  variety.js is an additional tool that we use to analyze an entire collection and look for records
 that do not meet our minimum requirements.
 
+.. toctree::
+   :maxdepth:1
+
+   ../samples/variety
+
+
+
 ----------
 References
 ----------

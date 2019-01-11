@@ -17,6 +17,8 @@ black = "*"
 "flake8" = "*"
 sphinx = "*"
 sphinxcontrib-napoleon = "*"
+sphinx-markdown-tables = "*"
+recommonmark = "*"
 
 [requires]
 python_version = "3.7"
