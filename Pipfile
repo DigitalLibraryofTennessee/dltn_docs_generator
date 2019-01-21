@@ -19,6 +19,7 @@ sphinx = "*"
 sphinxcontrib-napoleon = "*"
 sphinx-markdown-tables = "*"
 recommonmark = "*"
+sphinx-bootstrap-theme = "*"
 
 [requires]
 python_version = "3.7"

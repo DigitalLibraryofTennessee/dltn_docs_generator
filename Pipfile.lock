@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "681f9b030efd0a0ef5f36845ca661de7360fb1756fef5eaef75ea57dc5199295"
+            "sha256": "ee9f36b1389ba1234ce3f7a0b869869f493cae78c6489d00595547d69b3d078c"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -131,11 +131,11 @@
         },
         "tqdm": {
             "hashes": [
-                "sha256:79420109a762f82e20e8ecdc3b3bc1bc6c6536884a8de5fa86a50eb99386376a",
-                "sha256:7fa801cf60e318bf7d2ac7498254df0f3d7a3ad23c622ae63666257d5f833967"
+                "sha256:b856be5cb6cfaee3b2733655c7c5bbc7751291bb5d1a4f54f020af4727570b3e",
+                "sha256:c9b9b5eeba13994a4c266aae7eef7aeeb0ba2973e431027e942b4faea139ef49"
             ],
             "index": "pypi",
-            "version": "==4.29.0"
+            "version": "==4.29.1"
         },
         "urllib3": {
             "hashes": [
@@ -309,10 +309,10 @@
         },
         "packaging": {
             "hashes": [
-                "sha256:0886227f54515e592aaa2e5a553332c73962917f2831f1b0f9b9f4380a4b9807",
-                "sha256:f95a1e147590f204328170981833854229bb2912ac3d5f89e2a8ccd2834800c9"
+                "sha256:0c98a5d0be38ed775798ece1b9727178c4469d9c3b4ada66e8e6b7849f8732af",
+                "sha256:9e1cbf8c12b1f1ce0bb5344b8d7ecf66a6f8a6e91bcb0c84593ed6d3ab5c4ab3"
             ],
-            "version": "==18.0"
+            "version": "==19.0"
         },
         "pockets": {
             "hashes": [
@@ -345,10 +345,10 @@
         },
         "pyparsing": {
             "hashes": [
-                "sha256:40856e74d4987de5d01761a22d1621ae1c7f8774585acae358aa5c5936c6c90b",
-                "sha256:f353aab21fd474459d97b709e527b5571314ee5f067441dc9f88e33eecd96592"
+                "sha256:66c9268862641abcac4a96ba74506e594c884e3f57690a696d21ad8210ed667a",
+                "sha256:f6c5ef0d7480ad048c054c37632c67fca55299990fff127850181659eea33fc3"
             ],
-            "version": "==2.3.0"
+            "version": "==2.3.1"
         },
         "pytz": {
             "hashes": [
@@ -394,6 +394,13 @@
             ],
             "index": "pypi",
             "version": "==1.8.3"
+        },
+        "sphinx-bootstrap-theme": {
+            "hashes": [
+                "sha256:82936109a05b84029052e7efb1756161c3b4c27ae18512a90234d50fe608cba7"
+            ],
+            "index": "pypi",
+            "version": "==0.6.5"
         },
         "sphinx-markdown-tables": {
             "hashes": [
