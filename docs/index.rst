@@ -43,6 +43,18 @@ provide records directly to the Digital Library of Tennessee.
 
    providers/*
 
+-----------------
+Metadata Mappings
+-----------------
+
+When creating a new metadata mapping, add it to the path below.
+
+.. toctree::
+   :maxdepth: 1
+   :glob:
+
+   mappings/*
+
 
 Indices and tables
 ==================
