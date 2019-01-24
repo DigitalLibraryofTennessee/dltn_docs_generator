@@ -6,7 +6,7 @@ import requests
 import arrow
 from lxml import etree
 
-settings = yaml.safe_load(open("config.yml", "r"))
+settings = yaml.safe_load(open("../config.yml", "r"))
 repox_connection = Repox(settings["repox"], settings["username"], settings["password"])
 in_dpla = requests.get(
     "https://raw.githubusercontent.com/dpla/ingestion/develop/profiles/tn.pjs"
@@ -29,7 +29,7 @@ class DLTN:
         )
         for provider in tqdm(self.providers):
             with open(
-                f"docs/providers/{provider['id']}.rst", "w+"
+                f"../docs/providers/{provider['id']}.rst", "w+"
             ) as provider_rst_file:
                 provider_rst_file.write(f'{provider["name"]}\n')
                 provider_rst_file.write("=" * len(provider["name"]))
