@@ -7,10 +7,6 @@
 Digital Library of Tennessee Technical Documentation
 ====================================================
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
 -----
 About
 -----
@@ -54,6 +50,15 @@ When creating a new metadata mapping, add it to the path below.
    :glob:
 
    mappings/*
+
+--------------------------
+Contributing Documentation
+--------------------------
+
+.. toctree::
+   :maxdepth: 2
+
+   contributing
 
 
 Indices and tables
