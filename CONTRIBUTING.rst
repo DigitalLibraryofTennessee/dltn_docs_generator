@@ -12,13 +12,17 @@ Documentation contributions are welcomed. To make a code contribution:
 2. Clone locally.
 3. Create a branch specifically for your issue your feature.
 
-$ git checkout -b name_of_bug_or_feature
+.. code-block:: console
+
+   $ git checkout -b name_of_bug_or_feature
 
 4. Make your changes locally, add, commit, and push to your fork.
 
-$ git add file_changed.py
-$ git commit -m "Talk about your change."
-$ git push my_remote my_feature_branch
+.. code-block::
+
+   $ git add file_changed.py
+   $ git commit -m "Talk about your change."
+   $ git push my_remote my_feature_branch
 
 5. Open a pull request to master.
 
