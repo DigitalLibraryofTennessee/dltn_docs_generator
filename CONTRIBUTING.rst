@@ -18,7 +18,7 @@ Documentation contributions are welcomed. To make a code contribution:
 
 4. Make your changes locally, add, commit, and push to your fork.
 
-.. code-block::
+.. code-block:: console
 
    $ git add file_changed.py
    $ git commit -m "Talk about your change."
