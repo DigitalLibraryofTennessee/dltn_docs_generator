@@ -2,8 +2,17 @@
 Crossroads to Freedom - XOAI Mapping
 ====================================
 
-In Fall 2018, Crossroads to Freedom's old Fedora 2 instance crashed.  This is an attempt to redo the mapping around XOAI
-using the OAI-PMH endpoint from their DSPACE instance.
+-----
+About
+-----
+
+In Fall 2018, Crossroads to Freedom's old Fedora 2 instance crashed. This caused DLTN to lose approximate 117,000
+records mapped to DPLA. This is an attempt to try to re-add this collection by mapping the migrated objects from DSPACE
+to DPLA as XOAI.
+
+**Note**:  To simplify the migration, Rhodes decided to change the content models of some of their objects.  For
+instance, the Memphis World collection was online originally with article level metadata.  The migrated collection
+does not have article level metadata, and thus has over 100,000 fewer metadata records.
 
 
 -----------
@@ -33,4 +42,6 @@ Mapping Tables
 
 .. include:: crossroads/col_10267_31328.rst
 .. include:: crossroads/col_10267_31329.rst
+.. include:: crossroads/col_10267_31330.rst
+.. include:: crossroads/col_10267_31331.rst
 .. include:: crossroads/col_10267_31334.rst
