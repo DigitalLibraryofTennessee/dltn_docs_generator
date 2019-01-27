@@ -46,7 +46,7 @@ Metadata Mappings
 When creating a new metadata mapping, add it to the path below.
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 3
    :glob:
 
    mappings/*
