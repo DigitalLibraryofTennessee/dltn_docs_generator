@@ -51,6 +51,19 @@ When creating a new metadata mapping, add it to the path below.
 
    mappings/*
 
+------------
+Style Guides
+------------
+
+If you're contributing code, read these first.
+
+.. toctree::
+   :maxdepth: 1
+   :glob:
+
+   style/*
+
+
 --------------------------
 Contributing Documentation
 --------------------------
