@@ -13,7 +13,10 @@ About
 
 This site serves as the home of the Digital Library of Tennessee's technical documentation.
 
-For more information about becoming a provider, see the `Digital Library of Tennessee Committee site <https://www.tenn-share.org/af_membercommittee.asp?committeeid=28>`_.
+For more information about becoming a provider, see the `Digital Library of Tennessee Committee site
+<https://www.tenn-share.org/af_membercommittee.asp?committeeid=28>`_.
+
+To find objects from our awesome collections, check out our `collections <https://tn.dp.la/>`_.
 
 --------------------
 Technical Procedures
