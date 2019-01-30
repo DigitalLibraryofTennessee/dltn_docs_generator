@@ -110,32 +110,33 @@ Example
 
 
 .. code-block:: xslt
+
     <?xml version="1.0" encoding="UTF-8"?>
-    <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-    xmlns:xs="http://www.w3.org/2001/XMLSchema"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:lyncode="http://www.lyncode.com/xoai"
-    xmlns:dltn = "https://github.com/digitallibraryoftennessee"
-    xmlns="http://www.loc.gov/mods/v3"
-    exclude-result-prefixes="#all"
-    xpath-default-namespace="http://www.lyncode.com/xoai" version="2.0">
+        <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+        xmlns:xs="http://www.w3.org/2001/XMLSchema"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:lyncode="http://www.lyncode.com/xoai"
+        xmlns:dltn = "https://github.com/digitallibraryoftennessee"
+        xmlns="http://www.loc.gov/mods/v3"
+        exclude-result-prefixes="#all"
+        xpath-default-namespace="http://www.lyncode.com/xoai" version="2.0">
 
-    <!-- output settings -->
-    <xsl:output encoding="UTF-8" method="xml" omit-xml-declaration="yes" indent="yes"/>
-    <xsl:strip-space elements="*"/>
+        <!-- output settings -->
+        <xsl:output encoding="UTF-8" method="xml" omit-xml-declaration="yes" indent="yes"/>
+        <xsl:strip-space elements="*"/>
 
-    <!-- includes and imports -->
+        <!-- includes and imports -->
 
-    <!--
-    Collection/Set = Crossroads Friends and Family
-    -->
+        <!--
+        Collection/Set = Crossroads Friends and Family
+        -->
 
-    <!-- Types -->
-    <xsl:param name="pType">
-        <dltn:type string="moving image">Video</dltn:type>
-        <dltn:type string="text">Text</dltn:type>
-        <dltn:type string="sound recording">Sound</dltn:type>
-    </xsl:param>
+        <!-- Types -->
+        <xsl:param name="pType">
+            <dltn:type string="moving image">Video</dltn:type>
+            <dltn:type string="text">Text</dltn:type>
+            <dltn:type string="sound recording">Sound</dltn:type>
+        </xsl:param>
 
     </xsl:stylesheet>
 
