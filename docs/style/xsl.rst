@@ -24,6 +24,22 @@ This is mainly driven by the fact that we use `Repox <https://github.com/europea
 **Note**:  Repox's XSL processor is built on Saxon 8.7.  Therefore, all XSLT needs to be tested verus 8.7 rather than a
 the current version.
 
+For help getting started see:
+
+.. toctree::
+   :maxdepth: 1
+
+   tutorials/xsl_tutorial
+
+--------------------------
+MODS XML Order of Elements
+--------------------------
+
+Rule
+====
+
+When serializing a new MODS record, use the ofll
+
 --------------------------------
 Implicit vs. Explicit Processing
 --------------------------------
