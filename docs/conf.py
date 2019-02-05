@@ -23,7 +23,7 @@ sys.path.insert(0, os.path.abspath(".."))
 # -- Project information -----------------------------------------------------
 
 project = 'dltn_docs_generator'
-copyright = '2019, Mark Baggett'
+copyright = '2019, Digital Library of Tennessee'
 author = 'Mark Baggett'
 
 # The short X.Y version
