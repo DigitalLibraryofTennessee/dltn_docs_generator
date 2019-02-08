@@ -21,7 +21,7 @@ XSLT (Extensible Stylesheet Language Transformations) is the primary language we
 `DLTN MODS <https://docs.google.com/spreadsheets/d/1BzZvDOf4fgas3TD21xF40lu2pk2XW0k2pTGJKIt6438/edit#gid=102934983>`_.
 This is mainly driven by the fact that we use `Repox <https://github.com/europeana/REPOX>`_ as our aggregation platform.
 
-**Note**:  Repox's XSL processor is built on Saxon 8.7.  Therefore, all XSLT needs to be tested verus 8.7 rather than a
+**Note**:  Repox's XSL processor is built on Saxon 8.7.  Therefore, all XSLT needs to be tested versus 8.7 rather than
 the current version.
 
 For help getting started see:

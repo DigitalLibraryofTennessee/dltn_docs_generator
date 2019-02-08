@@ -11,7 +11,7 @@ Stylesheet Attributes
 ---------------------
 
 Our stylesheet attributes should look similar across the entire repository. In addition to declaring any needed namespaces,
-we define a default namespace that is equal to the format of the processed document (usually MODS). This makes it so
+we define a default namespace that is equal to the namespace of the output document (usually MODS). This makes it so
 our final documents don't have the mods namespace repeated throughout.
 
 .. code-block:: xslt
@@ -28,7 +28,7 @@ our final documents don't have the mods namespace repeated throughout.
     xpath-default-namespace="http://www.lyncode.com/xoai"
     version="2.0">
 
-We also define a xpath-default-namespace so that our selectors are less verbose.  This is normally equal to namespace of
+We also define an `xpath-default-namespace` so that our selectors are less verbose.  This is normally equal to namespace of
 your primary template match.
 
 .. code-block:: xslt
@@ -45,7 +45,7 @@ your primary template match.
     xpath-default-namespace="http://www.lyncode.com/xoai"
     version="2.0">
 
-Finally, we need to exclude all outgoing prefixes so they aren't in our outputted document.
+Finally, we need to exclude all outgoing prefixes so they aren't in our output document.
 
 .. code-block:: xslt
    :emphasize-lines: 8
@@ -101,13 +101,15 @@ Identity transform
 ==================
 
 In order to keep our transforms as simple as possible, we require that all new transforms start with an identity
-transform.  This is our primary template and tells the processor to copy all text and attributes.  This template is then
+transform.  This is our primary template and tells the processor to copy all attributes and all nodes recursively.  This template is then
 accompanied by other transforms that give more explicit instructions.
 
 .. code-block:: xslt
 
-    <xsl:template match="text()">
-        <xsl:value-of select="normalize-space(.)"/>
+    <xsl:template match="@*|node()">
+        <xsl:copy>
+            <xsl:apply-templates select="@*|node()"/>
+        </xsl:copy>
     </xsl:template>
 
 Primary template match
