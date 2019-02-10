@@ -16,7 +16,10 @@ This site serves as the home of the Digital Library of Tennessee's technical doc
 For more information about becoming a provider, see the `Digital Library of Tennessee Committee site
 <https://www.tenn-share.org/af_membercommittee.asp?committeeid=28>`_.
 
-To find objects from our awesome collections, check out our `collections <https://tn.dp.la/>`_.
+To find objects from our awesome collections, check out the `DLTN portal <https://tn.dp.la/>`_.
+
+To see issues and ingestion schedules into DPLA, check out the `DLTN DPLA wiki space <https://digitalpubliclibraryofamerica.atlassian.net/wiki/spaces/CT/pages/85920546/Digital+Library+of+Tennessee+Dashboard>`_.
+
 
 --------------------
 Technical Procedures
