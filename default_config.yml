@@ -2,3 +2,5 @@ repox: "http://localhost:8080"
 username: "username"
 password: "password"
 generate_mods_count: False
+gh_user: "github_username"
+gh_pass: "github_password"
