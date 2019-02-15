@@ -11,6 +11,7 @@ class QuarterlyReport:
         issues (list): A list of all closed issues from the milestone.
 
     """
+
     def __init__(self, gh_user, gh_pass, milestone):
         self.milestone = milestone
         self.gh_connection = Github(gh_user, gh_pass)
@@ -26,7 +27,8 @@ class QuarterlyReport:
             try:
                 if issue.milestone.title == self.milestone:
                     completed_issues.append(
-                        f"`{issue.user.login} <https://github.com/{issue.user.login}>`_: `{issue.title} <{issue.url}>`_"
+                        f"`{issue.assignee.login} <https://github.com/{issue.assignee.login}>`_: "
+                        f"`{issue.title} <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/{issue.number}>`_"
                     )
             except AttributeError:
                 pass
@@ -38,6 +40,10 @@ class QuarterlyReport:
         ) as milestone_report:
             milestone_report.write(f"{self.milestone}\n")
             milestone_report.write(f'{"="*len(self.milestone)}\n\n')
+            milestone_report.write(
+                "This report shows all work completed during the quarter according to the "
+                "`DLTN_XSLT issue tracker <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/>`_.\n\n"
+            )
             i = 1
             for issue in issues:
                 milestone_report.write(f"{i}. {issue}\n")
