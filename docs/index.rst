@@ -80,6 +80,17 @@ Contributing Documentation
    contributing
 
 
+-----------------
+Quarterly Reports
+-----------------
+
+.. toctree::
+   :maxdepth: 1
+   :glob:
+
+   progress_reports/*
+
+
 Indices and tables
 ==================
 
