@@ -42,38 +42,38 @@ When serializing a new MODS record, elements should follow the order defined bel
 corresponding elements within MARC are positioned within a record, minus the emphasis on authorship (100 field).
 
 - identifier
-    - [@type="local"]
-    - [@type="issn/isbn"]
-    - [@type="extension"]
-    - [@type="filename"]
-    - [@type="pid"]
+    [@type="local"]
+    [@type="issn/isbn"]
+    [@type="extension"]
+    [@type="filename"]
+    [@type="pid"]
 - titleInfo:title
 - titleInfo[@supplied="yes"]:title
 - titleInfo[@type="alternative"]:title
 - abstract
 - tableOfContents
 - name
-    - namePart
-    - role:roleTerm
+    namePart
+    role:roleTerm
 - originInfo
-    - dateCreated
-    - dateCreated[@type="edtf"]
-    - dateIssued
-    - dateIssued[@type="edtf"]
-    - dateOther
-    - publisher
-    - place:placeTerm
+    dateCreated
+    dateCreated[@type="edtf"]
+    dateIssued
+    dateIssued[@type="edtf"]
+    dateOther
+    publisher
+    place:placeTerm
 - physicalDescription
-    - form
-    - extent
-    - internetMediaType
-    - digitalOrigin
+    form
+    extent
+    internetMediaType
+    digitalOrigin
 - genre
-- subject
-    - topic
-    - name
-    - geographic
 - note
+- subject
+    topic
+    name
+    geographic
 - language:languageTerm
 - typeOfResource
 - classification
