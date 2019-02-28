@@ -52,13 +52,14 @@ titleInfo:title
     - titleInfo[@supplied="yes"]:title
     - titleInfo[@type="alternative"]:title
 
-abstract
+**abstract**
 
-tableOfContents
+**tableOfContents**
 
 name
     - namePart
     - role:roleTerm
+
 originInfo
     - dateCreated
     - dateCreated[@type="edtf"]
@@ -74,18 +75,30 @@ physicalDescription
     - internetMediaType
     - digitalOrigin
 
-genre
+**genre**
 
-note
+**note**
 
 subject
     - topic
     - name
     - geographic
 
-language:languageTerm
+**language:languageTerm**
 
-typeOfResource
+**typeOfResource**
+
+**classification**
+
+**relatedItem[@displayLabel="Project"][@type="host"]:titleInfo:title**
+
+**relatedItem[@displayLabel=”Collection”][type=”host”]:titleInfo:title**
+
+**location:physicalLocation**
+
+**recordInfo:recordContentSource**
+
+**accessCondition**
 
 
 --------------------------------
