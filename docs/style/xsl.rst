@@ -75,14 +75,14 @@ physicalDescription
     - internetMediaType
     - digitalOrigin
 
-**genre**
-
 **note**
 
 subject
     - topic
     - name
     - geographic
+
+**genre**
 
 **language:languageTerm**
 
