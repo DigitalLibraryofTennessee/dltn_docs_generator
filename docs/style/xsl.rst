@@ -48,9 +48,10 @@ identifier
     - [@type="filename"]
     - [@type="pid"]
 
-titleInfo:title
-    - titleInfo[@supplied="yes"]:title
-    - titleInfo[@type="alternative"]:title
+titleInfo
+    - title
+    - [@supplied="yes"]:title
+    - [@type="alternative"]:title
 
 **abstract**
 
