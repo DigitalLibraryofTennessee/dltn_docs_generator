@@ -41,47 +41,51 @@ Rule
 When serializing a new MODS record, elements should follow the order defined below. This order is loosely based on how
 corresponding elements within MARC are positioned within a record, minus the emphasis on authorship (100 field).
 
-- identifier
-    [@type="local"]
-    [@type="issn/isbn"]
-    [@type="extension"]
-    [@type="filename"]
-    [@type="pid"]
-- titleInfo:title
-- titleInfo[@supplied="yes"]:title
-- titleInfo[@type="alternative"]:title
-- abstract
-- tableOfContents
-- name
-    namePart
-    role:roleTerm
-- originInfo
-    dateCreated
-    dateCreated[@type="edtf"]
-    dateIssued
-    dateIssued[@type="edtf"]
-    dateOther
-    publisher
-    place:placeTerm
-- physicalDescription
-    form
-    extent
-    internetMediaType
-    digitalOrigin
-- genre
-- note
-- subject
-    topic
-    name
-    geographic
-- language:languageTerm
-- typeOfResource
-- classification
-- relatedItem[@displayLabel="Project"][@type="host"]:titleInfo:title
-- relatedItem[@displayLabel=”Collection”][type=”host”]:titleInfo:title
-- location:physicalLocation>
-- recordInfo:recordContentSource
-- accessCondition
+identifier
+    - [@type="local"]
+    - [@type="issn/isbn"]
+    - [@type="extension"]
+    - [@type="filename"]
+    - [@type="pid"]
+
+titleInfo:title
+    - titleInfo[@supplied="yes"]:title
+    - titleInfo[@type="alternative"]:title
+
+abstract
+
+tableOfContents
+
+name
+    - namePart
+    - role:roleTerm
+originInfo
+    - dateCreated
+    - dateCreated[@type="edtf"]
+    - dateIssued
+    - dateIssued[@type="edtf"]
+    - dateOther
+    - publisher
+    - place:placeTerm
+
+physicalDescription
+    - form
+    - extent
+    - internetMediaType
+    - digitalOrigin
+
+genre
+
+note
+
+subject
+    - topic
+    - name
+    - geographic
+
+language:languageTerm
+
+typeOfResource
 
 
 --------------------------------
