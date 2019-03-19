@@ -5,16 +5,15 @@ Details
 -------
 
 
-Email: ken.middleton@mtsu.edu
+Email: Ken.Middleton@mtsu.edu
 
-Description: contact: Ken Middleton
-platform: ContentDM
+Description: contact: Ken Middleton platform: ContentDM
 
 OAI endpoint: 
 
 Total records in Repox: 7399
 
-Page last updated: 2019-01-10
+Page last updated: 2019-03-19
 
 Datasets
 --------

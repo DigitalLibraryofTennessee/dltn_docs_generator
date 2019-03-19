@@ -7,14 +7,13 @@ Details
 
 Email: 
 
-Description: contact: Steve Cotham
-platform: ContentDM
+Description: contact: Steve Cotham platform: ContentDM
 
 OAI endpoint: 
 
 Total records in Repox: 6251
 
-Page last updated: 2019-01-10
+Page last updated: 2019-03-19
 
 Datasets
 --------

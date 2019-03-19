@@ -7,13 +7,13 @@ Details
 
 Email: mbagget1@utk.edu
 
-Description: University of Tennessee Knoxville
+Description: contact: Mark Baggett
 
 OAI endpoint: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl
 
-Total records in Repox: 25691
+Total records in Repox: 30421
 
-Page last updated: 2019-01-10
+Page last updated: 2019-03-19
 
 Datasets
 --------
@@ -44,12 +44,25 @@ digitalcomm_nfp
 
 
 
+utk_3d
+
+* **Record Total**: 19
+* **In DPLA?**: True
+* **Metadata format**: mods
+* **Last ingest date**: 03/07/2019 09:01:00
+* **Dataset Type**: OAI
+* **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=3d&metadataPrefix=mods
+* **OAI Set**: 3d
+* **OAI MODS Records**: 19
+
+
+
 utk_acwiley
 
 * **Record Total**: 195
 * **In DPLA?**: True
 * **Metadata format**: mods
-* **Last ingest date**: 06/01/2018 10:11:43
+* **Last ingest date**: 02/24/2019 13:22:31
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=acwiley&metadataPrefix=mods
 * **OAI Set**: acwiley
@@ -80,6 +93,19 @@ utk_agee
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=agee&metadataPrefix=mods
 * **OAI Set**: agee
 * **OAI MODS Records**: 1
+
+
+
+utk_agrtfhs
+
+* **Record Total**: 135
+* **In DPLA?**: True
+* **Metadata format**: mods
+* **Last ingest date**: 03/18/2019 08:55:49
+* **Dataset Type**: OAI
+* **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=agrtfhs&metadataPrefix=mods
+* **OAI Set**: agrtfhs
+* **OAI MODS Records**: 135
 
 
 
@@ -148,12 +174,25 @@ utk_arrsimple
 
 
 
+utk_brehm
+
+* **Record Total**: 34
+* **In DPLA?**: True
+* **Metadata format**: mods
+* **Last ingest date**: 03/07/2019 10:03:46
+* **Dataset Type**: OAI
+* **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=brehm&metadataPrefix=mods
+* **OAI Set**: brehm
+* **OAI MODS Records**: 34
+
+
+
 utk_cdf
 
 * **Record Total**: 199
 * **In DPLA?**: True
 * **Metadata format**: mods
-* **Last ingest date**: 03/19/2018 11:48:16
+* **Last ingest date**: 03/18/2019 09:54:49
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=cdf&metadataPrefix=mods
 * **OAI Set**: cdf
@@ -179,7 +218,7 @@ utk_colloquy
 * **Record Total**: 34
 * **In DPLA?**: True
 * **Metadata format**: mods
-* **Last ingest date**: 12/05/2017 15:42:19
+* **Last ingest date**: 02/24/2019 19:40:48
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=colloquy&metadataPrefix=mods
 * **OAI Set**: colloquy
@@ -213,6 +252,19 @@ utk_derris
 
 
 
+utk_druid
+
+* **Record Total**: 4
+* **In DPLA?**: True
+* **Metadata format**: mods
+* **Last ingest date**: 03/07/2019 10:17:31
+* **Dataset Type**: OAI
+* **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=druid&metadataPrefix=mods
+* **OAI Set**: druid
+* **OAI MODS Records**: 4
+
+
+
 utk_egypt
 
 * **Record Total**: 231
@@ -236,6 +288,19 @@ utk_ekcd
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=ekcd&metadataPrefix=mods
 * **OAI Set**: ekcd
 * **OAI MODS Records**: 82
+
+
+
+utk_emancip
+
+* **Record Total**: 7
+* **In DPLA?**: True
+* **Metadata format**: mods
+* **Last ingest date**: 03/07/2019 11:11:16
+* **Dataset Type**: OAI
+* **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=emancip&metadataPrefix=mods
+* **OAI Set**: emancip
+* **OAI MODS Records**: 7
 
 
 
@@ -304,6 +369,19 @@ utk_humbug
 
 
 
+utk_indtruth
+
+* **Record Total**: 3
+* **In DPLA?**: True
+* **Metadata format**: mods
+* **Last ingest date**: 03/07/2019 10:13:46
+* **Dataset Type**: OAI
+* **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=indtruth&metadataPrefix=mods
+* **OAI Set**: indtruth
+* **OAI MODS Records**: 3
+
+
+
 utk_kefauver
 
 * **Record Total**: 315
@@ -353,6 +431,19 @@ utk_mugwump
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=mugwump&metadataPrefix=mods
 * **OAI Set**: mugwump
 * **OAI MODS Records**: 87
+
+
+
+utk_phoenix
+
+* **Record Total**: 128
+* **In DPLA?**: True
+* **Metadata format**: mods
+* **Last ingest date**: 03/07/2019 09:18:31
+* **Dataset Type**: OAI
+* **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=phoenix&metadataPrefix=mods
+* **OAI Set**: phoenix
+* **OAI MODS Records**: 128
 
 
 
@@ -553,14 +644,14 @@ utk_utsmc
 
 utk_vanvactor
 
-* **Record Total**: 476
+* **Record Total**: 477
 * **In DPLA?**: True
 * **Metadata format**: mods
-* **Last ingest date**: 12/17/2018 13:40:02
+* **Last ingest date**: 03/07/2019 08:37:00
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=vanvactor&metadataPrefix=mods
 * **OAI Set**: vanvactor
-* **OAI MODS Records**: 448
+* **OAI MODS Records**: 451
 
 
 
@@ -579,14 +670,14 @@ utk_voice
 
 utk_volvoices
 
-* **Record Total**: 4369
+* **Record Total**: 8768
 * **In DPLA?**: True
 * **Metadata format**: mods
-* **Last ingest date**: 09/05/2018 14:32:39
+* **Last ingest date**: 03/18/2019 10:53:05
 * **Dataset Type**: OAI
-* **OAI Endpoint**: https://digital.lib.utk.edu/collections/oai2?verb=ListRecords&set=collections_volvoices&metadataPrefix=mods
-* **OAI Set**: collections_volvoices
-* **OAI MODS Records**: 4369
+* **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=volvoices&metadataPrefix=mods
+* **OAI Set**: volvoices
+* **OAI MODS Records**: 8768
 
 
 
@@ -608,7 +699,7 @@ utk_wderfilms
 * **Record Total**: 14
 * **In DPLA?**: True
 * **Metadata format**: mods
-* **Last ingest date**: 09/05/2018 08:44:21
+* **Last ingest date**: 03/05/2019 09:21:24
 * **Dataset Type**: OAI
 * **OAI Endpoint**: https://digital.lib.utk.edu/collections/oai2?verb=ListRecords&set=gsmrc_wderfilms&metadataPrefix=mods
 * **OAI Set**: gsmrc_wderfilms

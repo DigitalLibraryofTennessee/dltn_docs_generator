@@ -5,16 +5,15 @@ Details
 -------
 
 
-Email: jami.awalt@tn.gov
+Email: Jami.Awalt@tn.gov
 
-Description: contact: Jami Awalt
-platform: ContentDM
+Description: contact: Jami Awalt platform: ContentDM
 
 OAI endpoint: 
 
-Total records in Repox: 17034
+Total records in Repox: 17038
 
-Page last updated: 2019-01-10
+Page last updated: 2019-03-19
 
 Datasets
 --------
@@ -463,14 +462,14 @@ tsla_p15138coll32
 
 tsla_p15138coll33
 
-* **Record Total**: 109
+* **Record Total**: 113
 * **In DPLA?**: True
 * **Metadata format**: oai_qdc
-* **Last ingest date**: 12/21/2017 14:45:42
+* **Last ingest date**: 03/12/2019 11:49:30
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15138coll33&metadataPrefix=oai_qdc
 * **OAI Set**: p15138coll33
-* **OAI MODS Records**: 109
+* **OAI MODS Records**: 113
 
 
 

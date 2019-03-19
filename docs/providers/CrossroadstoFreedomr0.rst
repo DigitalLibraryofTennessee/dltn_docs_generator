@@ -5,15 +5,15 @@ Details
 -------
 
 
-Email: 
+Email: trenthem@rhodes.edu
 
-Description: contact: Jennifer Ott current platform: Fedora 2 migrating to: DSPACE
+Description: contact: Richie Trenthem platorm: DSPACE
 
-OAI endpoint: 
+OAI endpoint: http://dlynx.rhodes.edu:8080/oai/request
 
-Total records in Repox: 118688
+Total records in Repox: 120151
 
-Page last updated: 2019-02-08
+Page last updated: 2019-03-19
 
 Datasets
 --------
@@ -128,183 +128,201 @@ crossroads9
 
 crossroads_beale
 
-* **Record Total**: 109
-* **In DPLA?**: False
+* **Record Total**: 108
+* **In DPLA?**: True
 * **Metadata format**: xoai
-* **Last ingest date**: 02/06/2019 16:37:36
-* **Dataset Type**: OAI
-* **OAI Endpoint**: http://dlynx.rhodes.edu:8080/oai/request?verb=ListRecords&set=col_10267_34285&metadataPrefix=xoai
-* **OAI Set**: col_10267_34285
-* **OAI MODS Records**: 0
+* **Last ingest date**: 02/27/2019 08:05:55
+* **Dataset Type**: DIR
+* **Source Directory**: /vhosts/repoxdata/rhodes_xoai/crossroads_beale
+* **OAI MODS Records**: 108
 
 
 
 crossroads_everett_cook
 
 * **Record Total**: 93
-* **In DPLA?**: False
+* **In DPLA?**: True
 * **Metadata format**: xoai
 * **Last ingest date**: 02/06/2019 16:39:36
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dlynx.rhodes.edu:8080/oai/request?verb=ListRecords&set=col_10267_33969&metadataPrefix=xoai
 * **OAI Set**: col_10267_33969
-* **OAI MODS Records**: 0
+* **OAI MODS Records**: 93
 
 
 
 crossroads_family_and_friends
 
 * **Record Total**: 93
-* **In DPLA?**: False
+* **In DPLA?**: True
 * **Metadata format**: xoai
 * **Last ingest date**: 02/06/2019 16:41:51
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dlynx.rhodes.edu:8080/oai/request?verb=ListRecords&set=col_10267_31328&metadataPrefix=xoai
 * **OAI Set**: col_10267_31328
-* **OAI MODS Records**: 0
+* **OAI MODS Records**: 93
 
 
 
 crossroads_gaiety
 
 * **Record Total**: 15
-* **In DPLA?**: False
+* **In DPLA?**: True
 * **Metadata format**: xoai
 * **Last ingest date**: 02/06/2019 16:44:36
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dlynx.rhodes.edu:8080/oai/request?verb=ListRecords&set=col_10267_31329&metadataPrefix=xoai
 * **OAI Set**: col_10267_31329
-* **OAI MODS Records**: 0
+* **OAI MODS Records**: 15
 
 
 
 crossroads_gaze
 
 * **Record Total**: 121
-* **In DPLA?**: False
+* **In DPLA?**: True
 * **Metadata format**: xoai
 * **Last ingest date**: 02/06/2019 16:46:06
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dlynx.rhodes.edu:8080/oai/request?verb=ListRecords&set=col_10267_31330&metadataPrefix=xoai
 * **OAI Set**: col_10267_31330
-* **OAI MODS Records**: 0
+* **OAI MODS Records**: 121
 
 
 
 crossroads_lavender
 
 * **Record Total**: 5
-* **In DPLA?**: False
+* **In DPLA?**: True
 * **Metadata format**: xoai
 * **Last ingest date**: 02/06/2019 16:47:21
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dlynx.rhodes.edu:8080/oai/request?verb=ListRecords&set=col_10267_31331&metadataPrefix=xoai
 * **OAI Set**: col_10267_31331
-* **OAI MODS Records**: 0
+* **OAI MODS Records**: 5
 
 
 
 crossroads_lemoyne
 
 * **Record Total**: 99
-* **In DPLA?**: False
+* **In DPLA?**: True
 * **Metadata format**: xoai
 * **Last ingest date**: 02/06/2019 16:52:36
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dlynx.rhodes.edu:8080/oai/request?verb=ListRecords&set=col_10267_34009&metadataPrefix=xoai
 * **OAI Set**: col_10267_34009
-* **OAI MODS Records**: 0
+* **OAI MODS Records**: 99
 
 
 
 crossroads_maps
 
-* **Record Total**: 23
-* **In DPLA?**: False
+* **Record Total**: 21
+* **In DPLA?**: True
 * **Metadata format**: xoai
-* **Last ingest date**: 02/06/2019 16:36:06
-* **Dataset Type**: OAI
-* **OAI Endpoint**: http://dlynx.rhodes.edu:8080/oai/request?verb=ListRecords&set=col_10267_31149&metadataPrefix=xoai
-* **OAI Set**: col_10267_31149
-* **OAI MODS Records**: 0
+* **Last ingest date**: 02/27/2019 08:29:55
+* **Dataset Type**: DIR
+* **Source Directory**: /vhosts/repoxdata/rhodes_xoai/crossroads_maps
+* **OAI MODS Records**: 21
 
 
 
 crossroads_memphis_star
 
-* **Record Total**: 89
-* **In DPLA?**: False
+* **Record Total**: 88
+* **In DPLA?**: True
 * **Metadata format**: xoai
-* **Last ingest date**: 02/06/2019 16:56:51
-* **Dataset Type**: OAI
-* **OAI Endpoint**: http://dlynx.rhodes.edu:8080/oai/request?verb=ListRecords&set=col_10267_31332&metadataPrefix=xoai
-* **OAI Set**: col_10267_31332
-* **OAI MODS Records**: 0
+* **Last ingest date**: 02/27/2019 08:28:55
+* **Dataset Type**: DIR
+* **Source Directory**: /vhosts/repoxdata/rhodes_xoai/crossroads_memphis_star
+* **OAI MODS Records**: 88
 
 
 
 crossroads_memphis_world
 
-* **Record Total**: 1484
-* **In DPLA?**: False
+* **Record Total**: 1451
+* **In DPLA?**: True
 * **Metadata format**: xoai
-* **Last ingest date**: 02/06/2019 16:58:06
-* **Dataset Type**: OAI
-* **OAI Endpoint**: http://dlynx.rhodes.edu:8080/oai/request?verb=ListRecords&set=col_10267_31334&metadataPrefix=xoai
-* **OAI Set**: col_10267_31334
-* **OAI MODS Records**: 0
+* **Last ingest date**: 02/27/2019 08:28:25
+* **Dataset Type**: DIR
+* **Source Directory**: /vhosts/repoxdata/rhodes_xoai/crossroads_memphis_world
+* **OAI MODS Records**: 1451
 
 
 
 crossroads_oral_histories
 
 * **Record Total**: 321
-* **In DPLA?**: False
+* **In DPLA?**: True
 * **Metadata format**: xoai
 * **Last ingest date**: 02/06/2019 16:15:36
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dlynx.rhodes.edu:8080/oai/request?verb=ListRecords&set=col_10267_30936&metadataPrefix=xoai
 * **OAI Set**: col_10267_30936
-* **OAI MODS Records**: 0
+* **OAI MODS Records**: 319
 
 
 
 crossroads_sanitation
 
-* **Record Total**: 177
-* **In DPLA?**: False
+* **Record Total**: 174
+* **In DPLA?**: True
 * **Metadata format**: xoai
-* **Last ingest date**: 02/06/2019 16:59:36
-* **Dataset Type**: OAI
-* **OAI Endpoint**: http://dlynx.rhodes.edu:8080/oai/request?verb=ListRecords&set=col_10267_33718&metadataPrefix=xoai
-* **OAI Set**: col_10267_33718
-* **OAI MODS Records**: 0
+* **Last ingest date**: 02/27/2019 08:27:40
+* **Dataset Type**: DIR
+* **Source Directory**: /vhosts/repoxdata/rhodes_xoai/crossroads_sanitation
+* **OAI MODS Records**: 174
 
 
 
 crossroads_sugarmon
 
 * **Record Total**: 56
-* **In DPLA?**: False
+* **In DPLA?**: True
 * **Metadata format**: xoai
 * **Last ingest date**: 02/06/2019 17:00:36
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dlynx.rhodes.edu:8080/oai/request?verb=ListRecords&set=col_10267_34159&metadataPrefix=xoai
 * **OAI Set**: col_10267_34159
-* **OAI MODS Records**: 0
+* **OAI MODS Records**: 56
 
 
 
 crossroads_triangle
 
-* **Record Total**: 218
-* **In DPLA?**: False
+* **Record Total**: 217
+* **In DPLA?**: True
 * **Metadata format**: xoai
-* **Last ingest date**: 02/06/2019 17:01:36
-* **Dataset Type**: OAI
-* **OAI Endpoint**: http://dlynx.rhodes.edu:8080/oai/request?verb=ListRecords&set=col_10267_31333&metadataPrefix=xoai
-* **OAI Set**: col_10267_31333
-* **OAI MODS Records**: 0
+* **Last ingest date**: 02/27/2019 08:27:10
+* **Dataset Type**: DIR
+* **Source Directory**: /vhosts/repoxdata/rhodes_xoai/crossroads_triangle
+* **OAI MODS Records**: 217
+
+
+
+rhodes_farnsworth
+
+* **Record Total**: 764
+* **In DPLA?**: True
+* **Metadata format**: xoai
+* **Last ingest date**: 03/12/2019 11:43:45
+* **Dataset Type**: DIR
+* **Source Directory**: /vhosts/repoxdata/rhodes_xoai/farnsworth
+* **OAI MODS Records**: 764
+
+
+
+rhodes_sternberg
+
+* **Record Total**: 740
+* **In DPLA?**: True
+* **Metadata format**: xoai
+* **Last ingest date**: 03/12/2019 11:43:30
+* **Dataset Type**: DIR
+* **Source Directory**: /vhosts/repoxdata/sternber
+* **OAI MODS Records**: 740
 
 
 
