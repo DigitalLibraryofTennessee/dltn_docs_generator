@@ -5,15 +5,15 @@ Details
 -------
 
 
-Email: mbagget1@utk.edu
+**Email**: mbagget1@utk.edu
 
-Description: contact: Mark Baggett
+**Description**: contact: Mark Baggett
 
-OAI endpoint: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl
+**OAI endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl
 
-Total records in Repox: 30421
+**Total records in Repox**: 30421
 
-Page last updated: 2019-03-19
+**Page last updated**: 2019-03-19
 
 Datasets
 --------
@@ -27,7 +27,7 @@ bcpl
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=bcpl&metadataPrefix=mods
 * **OAI Set**: bcpl
-* **OAI MODS Records**: 93
+* **Records Being Sent to DPLA**: 93
 
 
 
@@ -40,7 +40,7 @@ digitalcomm_nfp
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://trace.tennessee.edu/do/oai/?verb=ListRecords&set=publication:utk_libnewf&metadataPrefix=oai_dc
 * **OAI Set**: publication:utk_libnewf
-* **OAI MODS Records**: 0
+* **Records Being Sent to DPLA**: 0
 
 
 
@@ -53,7 +53,7 @@ utk_3d
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=3d&metadataPrefix=mods
 * **OAI Set**: 3d
-* **OAI MODS Records**: 19
+* **Records Being Sent to DPLA**: 19
 
 
 
@@ -66,7 +66,7 @@ utk_acwiley
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=acwiley&metadataPrefix=mods
 * **OAI Set**: acwiley
-* **OAI MODS Records**: 195
+* **Records Being Sent to DPLA**: 195
 
 
 
@@ -79,7 +79,7 @@ utk_adams
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=adams&metadataPrefix=mods
 * **OAI Set**: adams
-* **OAI MODS Records**: 25
+* **Records Being Sent to DPLA**: 25
 
 
 
@@ -92,7 +92,7 @@ utk_agee
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=agee&metadataPrefix=mods
 * **OAI Set**: agee
-* **OAI MODS Records**: 1
+* **Records Being Sent to DPLA**: 1
 
 
 
@@ -105,7 +105,7 @@ utk_agrtfhs
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=agrtfhs&metadataPrefix=mods
 * **OAI Set**: agrtfhs
-* **OAI MODS Records**: 135
+* **Records Being Sent to DPLA**: 135
 
 
 
@@ -118,7 +118,7 @@ utk_airscoop
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=ascoop&metadataPrefix=mods
 * **OAI Set**: ascoop
-* **OAI MODS Records**: 26
+* **Records Being Sent to DPLA**: 26
 
 
 
@@ -131,7 +131,7 @@ utk_alumnus
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=alumnus&metadataPrefix=mods
 * **OAI Set**: alumnus
-* **OAI MODS Records**: 386
+* **Records Being Sent to DPLA**: 386
 
 
 
@@ -144,7 +144,7 @@ utk_arrow
 * **Dataset Type**: OAI
 * **OAI Endpoint**: https://digital.lib.utk.edu/collections/oai2?verb=ListRecords&set=arrowmont_arrow&metadataPrefix=mods
 * **OAI Set**: arrowmont_arrow
-* **OAI MODS Records**: 0
+* **Records Being Sent to DPLA**: 0
 
 
 
@@ -157,7 +157,7 @@ utk_arrscrap
 * **Dataset Type**: OAI
 * **OAI Endpoint**: https://digital.lib.utk.edu/collections/oai2?verb=ListRecords&set=arrowmont_arrscrap&metadataPrefix=mods
 * **OAI Set**: arrowmont_arrscrap
-* **OAI MODS Records**: 0
+* **Records Being Sent to DPLA**: 0
 
 
 
@@ -170,7 +170,7 @@ utk_arrsimple
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=arrsimple&metadataPrefix=mods
 * **OAI Set**: arrsimple
-* **OAI MODS Records**: 460
+* **Records Being Sent to DPLA**: 460
 
 
 
@@ -183,7 +183,7 @@ utk_brehm
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=brehm&metadataPrefix=mods
 * **OAI Set**: brehm
-* **OAI MODS Records**: 34
+* **Records Being Sent to DPLA**: 34
 
 
 
@@ -196,7 +196,7 @@ utk_cdf
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=cdf&metadataPrefix=mods
 * **OAI Set**: cdf
-* **OAI MODS Records**: 199
+* **Records Being Sent to DPLA**: 199
 
 
 
@@ -209,7 +209,7 @@ utk_charlie
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=cDanielCartoon&metadataPrefix=mods
 * **OAI Set**: cDanielCartoon
-* **OAI MODS Records**: 1759
+* **Records Being Sent to DPLA**: 1759
 
 
 
@@ -222,7 +222,7 @@ utk_colloquy
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=colloquy&metadataPrefix=mods
 * **OAI Set**: colloquy
-* **OAI MODS Records**: 34
+* **Records Being Sent to DPLA**: 34
 
 
 
@@ -235,7 +235,7 @@ utk_comm
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=utkcomm&metadataPrefix=mods
 * **OAI Set**: utkcomm
-* **OAI MODS Records**: 314
+* **Records Being Sent to DPLA**: 314
 
 
 
@@ -248,7 +248,7 @@ utk_derris
 * **Dataset Type**: OAI
 * **OAI Endpoint**: https://digital.lib.utk.edu/collections/oai2?verb=ListRecords&set=gsmrc_derris&metadataPrefix=mods
 * **OAI Set**: gsmrc_derris
-* **OAI MODS Records**: 334
+* **Records Being Sent to DPLA**: 334
 
 
 
@@ -261,7 +261,7 @@ utk_druid
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=druid&metadataPrefix=mods
 * **OAI Set**: druid
-* **OAI MODS Records**: 4
+* **Records Being Sent to DPLA**: 4
 
 
 
@@ -274,7 +274,7 @@ utk_egypt
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=egypt&metadataPrefix=mods
 * **OAI Set**: egypt
-* **OAI MODS Records**: 231
+* **Records Being Sent to DPLA**: 231
 
 
 
@@ -287,7 +287,7 @@ utk_ekcd
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=ekcd&metadataPrefix=mods
 * **OAI Set**: ekcd
-* **OAI MODS Records**: 82
+* **Records Being Sent to DPLA**: 82
 
 
 
@@ -300,7 +300,7 @@ utk_emancip
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=emancip&metadataPrefix=mods
 * **OAI Set**: emancip
-* **OAI MODS Records**: 7
+* **Records Being Sent to DPLA**: 7
 
 
 
@@ -313,7 +313,7 @@ utk_fiftyyears
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=50yrcove&metadataPrefix=mods
 * **OAI Set**: 50yrcove
-* **OAI MODS Records**: 34
+* **Records Being Sent to DPLA**: 34
 
 
 
@@ -326,7 +326,7 @@ utk_gamble
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=gamble&metadataPrefix=mods
 * **OAI Set**: gamble
-* **OAI MODS Records**: 312
+* **Records Being Sent to DPLA**: 312
 
 
 
@@ -339,7 +339,7 @@ utk_hbs
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=hbs&metadataPrefix=mods
 * **OAI Set**: hbs
-* **OAI MODS Records**: 207
+* **Records Being Sent to DPLA**: 207
 
 
 
@@ -352,7 +352,7 @@ utk_heilman
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=heilman&metadataPrefix=mods
 * **OAI Set**: heilman
-* **OAI MODS Records**: 1120
+* **Records Being Sent to DPLA**: 1120
 
 
 
@@ -365,7 +365,7 @@ utk_humbug
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=humbug&metadataPrefix=mods
 * **OAI Set**: humbug
-* **OAI MODS Records**: 4
+* **Records Being Sent to DPLA**: 4
 
 
 
@@ -378,7 +378,7 @@ utk_indtruth
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=indtruth&metadataPrefix=mods
 * **OAI Set**: indtruth
-* **OAI MODS Records**: 3
+* **Records Being Sent to DPLA**: 3
 
 
 
@@ -391,7 +391,7 @@ utk_kefauver
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=kefauver&metadataPrefix=mods
 * **OAI Set**: kefauver
-* **OAI MODS Records**: 315
+* **Records Being Sent to DPLA**: 315
 
 
 
@@ -404,7 +404,7 @@ utk_knoxgardens
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=knoxgardens&metadataPrefix=mods
 * **OAI Set**: knoxgardens
-* **OAI MODS Records**: 99
+* **Records Being Sent to DPLA**: 99
 
 
 
@@ -417,7 +417,7 @@ utk_mpabaker
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=mpabaker&metadataPrefix=mods
 * **OAI Set**: mpabaker
-* **OAI MODS Records**: 245
+* **Records Being Sent to DPLA**: 245
 
 
 
@@ -430,7 +430,7 @@ utk_mugwump
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=mugwump&metadataPrefix=mods
 * **OAI Set**: mugwump
-* **OAI MODS Records**: 87
+* **Records Being Sent to DPLA**: 87
 
 
 
@@ -443,7 +443,7 @@ utk_phoenix
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=phoenix&metadataPrefix=mods
 * **OAI Set**: phoenix
-* **OAI MODS Records**: 128
+* **Records Being Sent to DPLA**: 128
 
 
 
@@ -456,7 +456,7 @@ utk_playbills
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=playbills&metadataPrefix=mods
 * **OAI Set**: playbills
-* **OAI MODS Records**: 672
+* **Records Being Sent to DPLA**: 672
 
 
 
@@ -469,7 +469,7 @@ utk_postcards
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=pcard00&metadataPrefix=mods
 * **OAI Set**: pcard00
-* **OAI MODS Records**: 1458
+* **Records Being Sent to DPLA**: 1458
 
 
 
@@ -482,7 +482,7 @@ utk_rfj
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=rfj&metadataPrefix=mods
 * **OAI Set**: rfj
-* **OAI MODS Records**: 2
+* **Records Being Sent to DPLA**: 2
 
 
 
@@ -495,7 +495,7 @@ utk_roth
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=roth&metadataPrefix=mods
 * **OAI Set**: roth
-* **OAI MODS Records**: 7276
+* **Records Being Sent to DPLA**: 7276
 
 
 
@@ -508,7 +508,7 @@ utk_ruskin
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=ruskin&metadataPrefix=mods
 * **OAI Set**: ruskin
-* **OAI MODS Records**: 104
+* **Records Being Sent to DPLA**: 104
 
 
 
@@ -521,7 +521,7 @@ utk_sanborn
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=sanborn&metadataPrefix=mods
 * **OAI Set**: sanborn
-* **OAI MODS Records**: 256
+* **Records Being Sent to DPLA**: 256
 
 
 
@@ -534,7 +534,7 @@ utk_scopes
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=scopes&metadataPrefix=mods
 * **OAI Set**: scopes
-* **OAI MODS Records**: 678
+* **Records Being Sent to DPLA**: 678
 
 
 
@@ -547,7 +547,7 @@ utk_smhc
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=smhc&metadataPrefix=mods
 * **OAI Set**: smhc
-* **OAI MODS Records**: 181
+* **Records Being Sent to DPLA**: 181
 
 
 
@@ -560,7 +560,7 @@ utk_sturley
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=sturley&metadataPrefix=mods
 * **OAI Set**: sturley
-* **OAI MODS Records**: 67
+* **Records Being Sent to DPLA**: 67
 
 
 
@@ -573,7 +573,7 @@ utk_swim
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=swim&metadataPrefix=mods
 * **OAI Set**: swim
-* **OAI MODS Records**: 42
+* **Records Being Sent to DPLA**: 42
 
 
 
@@ -586,7 +586,7 @@ utk_tenncities
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=tenncities&metadataPrefix=mods
 * **OAI Set**: tenncities
-* **OAI MODS Records**: 493
+* **Records Being Sent to DPLA**: 493
 
 
 
@@ -599,7 +599,7 @@ utk_tenngirl
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=tenngirl&metadataPrefix=mods
 * **OAI Set**: tenngirl
-* **OAI MODS Records**: 24
+* **Records Being Sent to DPLA**: 24
 
 
 
@@ -612,7 +612,7 @@ utk_thompson
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=thompson&metadataPrefix=mods
 * **OAI Set**: thompson
-* **OAI MODS Records**: 401
+* **Records Being Sent to DPLA**: 401
 
 
 
@@ -625,7 +625,7 @@ utk_univmonthly
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=univmonthly&metadataPrefix=mods
 * **OAI Set**: univmonthly
-* **OAI MODS Records**: 26
+* **Records Being Sent to DPLA**: 26
 
 
 
@@ -638,7 +638,7 @@ utk_utsmc
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=utsmc&metadataPrefix=mods
 * **OAI Set**: utsmc
-* **OAI MODS Records**: 2373
+* **Records Being Sent to DPLA**: 2373
 
 
 
@@ -651,7 +651,7 @@ utk_vanvactor
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=vanvactor&metadataPrefix=mods
 * **OAI Set**: vanvactor
-* **OAI MODS Records**: 451
+* **Records Being Sent to DPLA**: 451
 
 
 
@@ -664,7 +664,7 @@ utk_voice
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=voice&metadataPrefix=mods
 * **OAI Set**: voice
-* **OAI MODS Records**: 48
+* **Records Being Sent to DPLA**: 48
 
 
 
@@ -677,7 +677,7 @@ utk_volvoices
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=volvoices&metadataPrefix=mods
 * **OAI Set**: volvoices
-* **OAI MODS Records**: 8768
+* **Records Being Sent to DPLA**: 8768
 
 
 
@@ -690,7 +690,7 @@ utk_vpmoore
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=vpmoore&metadataPrefix=mods
 * **OAI Set**: vpmoore
-* **OAI MODS Records**: 101
+* **Records Being Sent to DPLA**: 101
 
 
 
@@ -703,7 +703,7 @@ utk_wderfilms
 * **Dataset Type**: OAI
 * **OAI Endpoint**: https://digital.lib.utk.edu/collections/oai2?verb=ListRecords&set=gsmrc_wderfilms&metadataPrefix=mods
 * **OAI Set**: gsmrc_wderfilms
-* **OAI MODS Records**: 14
+* **Records Being Sent to DPLA**: 14
 
 
 

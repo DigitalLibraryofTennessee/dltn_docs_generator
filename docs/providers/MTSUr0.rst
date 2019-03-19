@@ -5,15 +5,15 @@ Details
 -------
 
 
-Email: Ken.Middleton@mtsu.edu
+**Email**: Ken.Middleton@mtsu.edu
 
-Description: contact: Ken Middleton platform: ContentDM
+**Description**: contact: Ken Middleton platform: ContentDM
 
-OAI endpoint: 
+**OAI endpoint**: 
 
-Total records in Repox: 7399
+**Total records in Repox**: 7399
 
-Page last updated: 2019-03-19
+**Page last updated**: 2019-03-19
 
 Datasets
 --------
@@ -27,7 +27,7 @@ MTSU Buchanan
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15838.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=buchanan&metadataPrefix=oai_dc
 * **OAI Set**: buchanan
-* **OAI MODS Records**: 28
+* **Records Being Sent to DPLA**: 28
 
 
 
@@ -40,7 +40,7 @@ MTSU Cannon
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15838.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=cannon&metadataPrefix=oai_dc
 * **OAI Set**: cannon
-* **OAI MODS Records**: 417
+* **Records Being Sent to DPLA**: 417
 
 
 
@@ -53,7 +53,7 @@ MTSU mtsu1
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15838.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=mtsu1&metadataPrefix=oai_dc
 * **OAI Set**: mtsu1
-* **OAI MODS Records**: 518
+* **Records Being Sent to DPLA**: 518
 
 
 
@@ -66,7 +66,7 @@ MTSU p15838coll3
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15838.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15838coll3&metadataPrefix=oai_dc
 * **OAI Set**: p15838coll3
-* **OAI MODS Records**: 79
+* **Records Being Sent to DPLA**: 79
 
 
 
@@ -79,7 +79,7 @@ MTSU p15838coll4
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15838.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15838coll4&metadataPrefix=oai_dc
 * **OAI Set**: p15838coll4
-* **OAI MODS Records**: 2754
+* **Records Being Sent to DPLA**: 2754
 
 
 
@@ -92,7 +92,7 @@ MTSU p15838coll7
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15838.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15838coll7&metadataPrefix=oai_dc
 * **OAI Set**: p15838coll7
-* **OAI MODS Records**: 290
+* **Records Being Sent to DPLA**: 290
 
 
 
@@ -105,7 +105,7 @@ MTSU rchs
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15838.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=rchs&metadataPrefix=oai_dc
 * **OAI Set**: rchs
-* **OAI MODS Records**: 0
+* **Records Being Sent to DPLA**: 0
 
 
 
@@ -118,7 +118,7 @@ MTSU Schools
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15838.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=schools&metadataPrefix=oai_dc
 * **OAI Set**: schools
-* **OAI MODS Records**: 47
+* **Records Being Sent to DPLA**: 47
 
 
 
@@ -131,7 +131,7 @@ MTSU Shades
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15838.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=shades&metadataPrefix=oai_dc
 * **OAI Set**: shades
-* **OAI MODS Records**: 294
+* **Records Being Sent to DPLA**: 294
 
 
 

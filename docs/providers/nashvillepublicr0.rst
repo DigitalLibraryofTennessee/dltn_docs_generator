@@ -5,15 +5,15 @@ Details
 -------
 
 
-Email: 
+**Email**: 
 
-Description: 
+**Description**: 
 
-OAI endpoint: 
+**OAI endpoint**: 
 
-Total records in Repox: 8614
+**Total records in Repox**: 8614
 
-Page last updated: 2019-03-19
+**Page last updated**: 2019-03-19
 
 Datasets
 --------
@@ -27,7 +27,7 @@ Nashville Public Library nr
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://nashville.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=nr&metadataPrefix=oai_dc
 * **OAI Set**: nr
-* **OAI MODS Records**: 7184
+* **Records Being Sent to DPLA**: 7184
 
 
 
@@ -40,7 +40,7 @@ Nashville Public Library p15769coll18
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://nashville.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15769coll18&metadataPrefix=oai_dc
 * **OAI Set**: p15769coll18
-* **OAI MODS Records**: 6
+* **Records Being Sent to DPLA**: 6
 
 
 
@@ -52,7 +52,7 @@ nash_p15769coll19
 * **Last ingest date**: 12/14/2018 11:08:03
 * **Dataset Type**: DIR
 * **Source Directory**: /vhosts/repoxdata/nash_p15769coll19
-* **OAI MODS Records**: 1082
+* **Records Being Sent to DPLA**: 1082
 
 
 

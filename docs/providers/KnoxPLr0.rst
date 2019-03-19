@@ -5,15 +5,15 @@ Details
 -------
 
 
-Email: 
+**Email**: 
 
-Description: contact: Steve Cotham platform: ContentDM
+**Description**: contact: Steve Cotham platform: ContentDM
 
-OAI endpoint: 
+**OAI endpoint**: 
 
-Total records in Repox: 6251
+**Total records in Repox**: 6251
 
-Page last updated: 2019-03-19
+**Page last updated**: 2019-03-19
 
 Datasets
 --------
@@ -27,7 +27,7 @@ Knoxville Public Library p15136coll1
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16311.contentdm.oclc.org:80/oai/oai.php?verb=ListRecords&set=p15136coll1&metadataPrefix=oai_dc
 * **OAI Set**: p15136coll1
-* **OAI MODS Records**: 108
+* **Records Being Sent to DPLA**: 108
 
 
 
@@ -40,7 +40,7 @@ Knoxville Public Library p15136coll2
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16311.contentdm.oclc.org:80/oai/oai.php?verb=ListRecords&set=p15136coll2&metadataPrefix=oai_dc
 * **OAI Set**: p15136coll2
-* **OAI MODS Records**: 280
+* **Records Being Sent to DPLA**: 280
 
 
 
@@ -53,7 +53,7 @@ Knoxville Public Library p16311coll1
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16311.contentdm.oclc.org:80/oai/oai.php?verb=ListRecords&set=p16311coll1&metadataPrefix=oai_dc
 * **OAI Set**: p16311coll1
-* **OAI MODS Records**: 327
+* **Records Being Sent to DPLA**: 327
 
 
 
@@ -66,7 +66,7 @@ Knoxville Public Library p16311coll2
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16311.contentdm.oclc.org:80/oai/oai.php?verb=ListRecords&set=p16311coll2&metadataPrefix=oai_dc
 * **OAI Set**: p16311coll2
-* **OAI MODS Records**: 535
+* **Records Being Sent to DPLA**: 535
 
 
 
@@ -79,7 +79,7 @@ Knoxville Public Library p265301coll005
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16311.contentdm.oclc.org:80/oai/oai.php?verb=ListRecords&set=p265301coll005&metadataPrefix=oai_dc
 * **OAI Set**: p265301coll005
-* **OAI MODS Records**: 2587
+* **Records Being Sent to DPLA**: 2587
 
 
 
@@ -92,7 +92,7 @@ Knoxville Public Library p265301coll7
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16311.contentdm.oclc.org:80/oai/oai.php?verb=ListRecords&set=p265301coll7&metadataPrefix=oai_dc
 * **OAI Set**: p265301coll7
-* **OAI MODS Records**: 1404
+* **Records Being Sent to DPLA**: 1404
 
 
 
@@ -105,7 +105,7 @@ Knoxville Public Library p265301coll9
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16311.contentdm.oclc.org:80/oai/oai.php?verb=ListRecords&set=p265301coll9&metadataPrefix=oai_dc
 * **OAI Set**: p265301coll9
-* **OAI MODS Records**: 940
+* **Records Being Sent to DPLA**: 940
 
 
 

@@ -5,15 +5,15 @@ Details
 -------
 
 
-Email: 
+**Email**: 
 
-Description: contact: ??? platform: ContentDM
+**Description**: contact: ??? platform: ContentDM
 
-OAI endpoint: 
+**OAI endpoint**: 
 
-Total records in Repox: 12285
+**Total records in Repox**: 12285
 
-Page last updated: 2019-03-19
+**Page last updated**: 2019-03-19
 
 Datasets
 --------
@@ -27,7 +27,7 @@ Memphis Public Library p13039coll2
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16108.contentdm.oclc.org:80/oai/oai.php?verb=ListRecords&set=p13039coll2&metadataPrefix=oai_dc
 * **OAI Set**: p13039coll2
-* **OAI MODS Records**: 232
+* **Records Being Sent to DPLA**: 232
 
 
 
@@ -40,7 +40,7 @@ Memphis Public Library p13039coll3
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16108.contentdm.oclc.org:80/oai/oai.php?verb=ListRecords&set=p13039coll3&metadataPrefix=oai_dc
 * **OAI Set**: p13039coll3
-* **OAI MODS Records**: 142
+* **Records Being Sent to DPLA**: 142
 
 
 
@@ -53,7 +53,7 @@ Memphis Public Library p13039coll5
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16108.contentdm.oclc.org:80/oai/oai.php?verb=ListRecords&set=p13039coll5&metadataPrefix=oai_dc
 * **OAI Set**: p13039coll5
-* **OAI MODS Records**: 1403
+* **Records Being Sent to DPLA**: 1403
 
 
 
@@ -66,7 +66,7 @@ Memphis Public Library p13039dc
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16108.contentdm.oclc.org:80/oai/oai.php?verb=ListRecords&set=p13039dc&metadataPrefix=oai_dc
 * **OAI Set**: p13039dc
-* **OAI MODS Records**: 1078
+* **Records Being Sent to DPLA**: 1078
 
 
 
@@ -79,7 +79,7 @@ Memphis Public Library p15342coll1
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16108.contentdm.oclc.org:80/oai/oai.php?verb=ListRecords&set=p15342coll1&metadataPrefix=oai_dc
 * **OAI Set**: p15342coll1
-* **OAI MODS Records**: 48
+* **Records Being Sent to DPLA**: 48
 
 
 
@@ -92,7 +92,7 @@ Memphis Public Library p15342coll10
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16108.contentdm.oclc.org:80/oai/oai.php?verb=ListRecords&set=p15342coll10&metadataPrefix=oai_dc
 * **OAI Set**: p15342coll10
-* **OAI MODS Records**: 1472
+* **Records Being Sent to DPLA**: 1472
 
 
 
@@ -105,7 +105,7 @@ Memphis Public Library p15342coll3
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16108.contentdm.oclc.org:80/oai/oai.php?verb=ListRecords&set=p15342coll3&metadataPrefix=oai_dc
 * **OAI Set**: p15342coll3
-* **OAI MODS Records**: 295
+* **Records Being Sent to DPLA**: 295
 
 
 
@@ -118,7 +118,7 @@ Memphis Public Library p15342coll4
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16108.contentdm.oclc.org:80/oai/oai.php?verb=ListRecords&set=p15342coll4&metadataPrefix=oai_dc
 * **OAI Set**: p15342coll4
-* **OAI MODS Records**: 1269
+* **Records Being Sent to DPLA**: 1269
 
 
 
@@ -131,7 +131,7 @@ Memphis Public Library p15342coll7
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16108.contentdm.oclc.org:80/oai/oai.php?verb=ListRecords&set=p15342coll7&metadataPrefix=oai_dc
 * **OAI Set**: p15342coll7
-* **OAI MODS Records**: 353
+* **Records Being Sent to DPLA**: 353
 
 
 
@@ -144,7 +144,7 @@ Memphis Public Library p15342coll8
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16108.contentdm.oclc.org:80/oai/oai.php?verb=ListRecords&set=p15342coll8&metadataPrefix=oai_dc
 * **OAI Set**: p15342coll8
-* **OAI MODS Records**: 248
+* **Records Being Sent to DPLA**: 248
 
 
 
@@ -157,7 +157,7 @@ Memphis Public Library p15342coll9
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16108.contentdm.oclc.org:80/oai/oai.php?verb=ListRecords&set=p15342coll9&metadataPrefix=oai_dc
 * **OAI Set**: p15342coll9
-* **OAI MODS Records**: 70
+* **Records Being Sent to DPLA**: 70
 
 
 
@@ -170,7 +170,7 @@ Memphis Public Library p16108coll1
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16108.contentdm.oclc.org:80/oai/oai.php?verb=ListRecords&set=p16108coll1&metadataPrefix=oai_dc
 * **OAI Set**: p16108coll1
-* **OAI MODS Records**: 1519
+* **Records Being Sent to DPLA**: 1519
 
 
 
@@ -183,7 +183,7 @@ Memphis Public Library p16108coll10
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16108.contentdm.oclc.org:80/oai/oai.php?verb=ListRecords&set=p16108coll10&metadataPrefix=oai_dc
 * **OAI Set**: p16108coll10
-* **OAI MODS Records**: 185
+* **Records Being Sent to DPLA**: 185
 
 
 
@@ -196,7 +196,7 @@ Memphis Public Library p16108coll12
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16108.contentdm.oclc.org:80/oai/oai.php?verb=ListRecords&set=p16108coll12&metadataPrefix=oai_dc
 * **OAI Set**: p16108coll12
-* **OAI MODS Records**: 454
+* **Records Being Sent to DPLA**: 454
 
 
 
@@ -209,7 +209,7 @@ Memphis Public Library p16108coll14
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16108.contentdm.oclc.org:80/oai/oai.php?verb=ListRecords&set=p16108coll14&metadataPrefix=oai_dc
 * **OAI Set**: p16108coll14
-* **OAI MODS Records**: 295
+* **Records Being Sent to DPLA**: 295
 
 
 
@@ -222,7 +222,7 @@ Memphis Public Library p16108coll15
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16108.contentdm.oclc.org:80/oai/oai.php?verb=ListRecords&set=p16108coll15&metadataPrefix=oai_dc
 * **OAI Set**: p16108coll15
-* **OAI MODS Records**: 466
+* **Records Being Sent to DPLA**: 466
 
 
 
@@ -235,7 +235,7 @@ Memphis Public Library p16108coll2
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16108.contentdm.oclc.org:80/oai/oai.php?verb=ListRecords&set=p16108coll2&metadataPrefix=oai_dc
 * **OAI Set**: p16108coll2
-* **OAI MODS Records**: 238
+* **Records Being Sent to DPLA**: 238
 
 
 
@@ -248,7 +248,7 @@ Memphis Public Library p16108coll3
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16108.contentdm.oclc.org:80/oai/oai.php?verb=ListRecords&set=p16108coll3&metadataPrefix=oai_dc
 * **OAI Set**: p16108coll3
-* **OAI MODS Records**: 84
+* **Records Being Sent to DPLA**: 84
 
 
 
@@ -261,7 +261,7 @@ Memphis Public Library p16108coll4
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16108.contentdm.oclc.org:80/oai/oai.php?verb=ListRecords&set=p16108coll4&metadataPrefix=oai_dc
 * **OAI Set**: p16108coll4
-* **OAI MODS Records**: 521
+* **Records Being Sent to DPLA**: 521
 
 
 
@@ -274,7 +274,7 @@ Memphis Public Library p16108coll9
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16108.contentdm.oclc.org:80/oai/oai.php?verb=ListRecords&set=p16108coll9&metadataPrefix=oai_dc
 * **OAI Set**: p16108coll9
-* **OAI MODS Records**: 106
+* **Records Being Sent to DPLA**: 106
 
 
 
@@ -287,7 +287,7 @@ memphispublic_p16108coll6
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16108.contentdm.oclc.org:80/oai/oai.php?verb=ListRecords&set=p16108coll6&metadataPrefix=oai_dc
 * **OAI Set**: p16108coll6
-* **OAI MODS Records**: 211
+* **Records Being Sent to DPLA**: 211
 
 
 
@@ -300,7 +300,7 @@ memphispub_p16108coll8
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16108.contentdm.oclc.org:80/oai/oai.php?verb=ListRecords&set=p16108coll8&metadataPrefix=oai_dc
 * **OAI Set**: p16108coll8
-* **OAI MODS Records**: 305
+* **Records Being Sent to DPLA**: 305
 
 
 

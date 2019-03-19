@@ -5,15 +5,15 @@ Details
 -------
 
 
-Email: carolyn-runyon@utc.edu
+**Email**: carolyn-runyon@utc.edu
 
-Description: contact: Carolyn Runyon platform: ContentDM
+**Description**: contact: Carolyn Runyon platform: ContentDM
 
-OAI endpoint: 
+**OAI endpoint**: 
 
-Total records in Repox: 15919
+**Total records in Repox**: 15919
 
-Page last updated: 2019-03-19
+**Page last updated**: 2019-03-19
 
 Datasets
 --------
@@ -27,7 +27,7 @@ p16877coll1
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16877.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p16877coll1&metadataPrefix=oai_qdc
 * **OAI Set**: p16877coll1
-* **OAI MODS Records**: 71
+* **Records Being Sent to DPLA**: 71
 
 
 
@@ -40,7 +40,7 @@ p16877coll2
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16877.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p16877coll2&metadataPrefix=oai_qdc
 * **OAI Set**: p16877coll2
-* **OAI MODS Records**: 176
+* **Records Being Sent to DPLA**: 176
 
 
 
@@ -53,7 +53,7 @@ p16877coll3
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16877.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p16877coll3&metadataPrefix=oai_qdc
 * **OAI Set**: p16877coll3
-* **OAI MODS Records**: 63
+* **Records Being Sent to DPLA**: 63
 
 
 
@@ -66,7 +66,7 @@ p16877coll4
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16877.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p16877coll4&metadataPrefix=oai_qdc
 * **OAI Set**: p16877coll4
-* **OAI MODS Records**: 17
+* **Records Being Sent to DPLA**: 17
 
 
 
@@ -79,7 +79,7 @@ p16877coll5
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16877.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p16877coll5&metadataPrefix=oai_qdc
 * **OAI Set**: p16877coll5
-* **OAI MODS Records**: 20
+* **Records Being Sent to DPLA**: 20
 
 
 
@@ -92,7 +92,7 @@ p16877coll6
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16877.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p16877coll6&metadataPrefix=oai_qdc
 * **OAI Set**: p16877coll6
-* **OAI MODS Records**: 76
+* **Records Being Sent to DPLA**: 76
 
 
 
@@ -105,7 +105,7 @@ p16877coll7
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16877.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p16877coll7&metadataPrefix=oai_qdc
 * **OAI Set**: p16877coll7
-* **OAI MODS Records**: 70
+* **Records Being Sent to DPLA**: 70
 
 
 
@@ -118,7 +118,7 @@ p16877coll8
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16877.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p16877coll8&metadataPrefix=oai_qdc
 * **OAI Set**: p16877coll8
-* **OAI MODS Records**: 255
+* **Records Being Sent to DPLA**: 255
 
 
 
@@ -131,7 +131,7 @@ p16877coll9
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16877.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p16877coll9&metadataPrefix=oai_qdc
 * **OAI Set**: p16877coll9
-* **OAI MODS Records**: 2159
+* **Records Being Sent to DPLA**: 2159
 
 
 
@@ -144,7 +144,7 @@ utc_p16877coll10
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16877.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p16877coll10&metadataPrefix=oai_qdc
 * **OAI Set**: p16877coll10
-* **OAI MODS Records**: 90
+* **Records Being Sent to DPLA**: 90
 
 
 
@@ -157,7 +157,7 @@ utc_p16877coll11
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16877.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p16877coll11&metadataPrefix=oai_qdc
 * **OAI Set**: p16877coll11
-* **OAI MODS Records**: 49
+* **Records Being Sent to DPLA**: 49
 
 
 
@@ -170,7 +170,7 @@ utc_p16877coll12
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16877.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p16877coll12&metadataPrefix=oai_qdc
 * **OAI Set**: p16877coll12
-* **OAI MODS Records**: 65
+* **Records Being Sent to DPLA**: 65
 
 
 
@@ -183,7 +183,7 @@ utc_p16877coll13
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16877.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p16877coll13&metadataPrefix=oai_qdc
 * **OAI Set**: p16877coll13
-* **OAI MODS Records**: 18
+* **Records Being Sent to DPLA**: 18
 
 
 
@@ -196,7 +196,7 @@ utc_p16877coll14
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16877.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p16877coll14&metadataPrefix=oai_qdc
 * **OAI Set**: p16877coll14
-* **OAI MODS Records**: 305
+* **Records Being Sent to DPLA**: 305
 
 
 
@@ -209,7 +209,7 @@ utc_p16877coll15
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16877.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p16877coll15&metadataPrefix=oai_qdc
 * **OAI Set**: p16877coll15
-* **OAI MODS Records**: 138
+* **Records Being Sent to DPLA**: 138
 
 
 
@@ -222,7 +222,7 @@ utc_p16877coll16
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16877.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p16877coll16&metadataPrefix=oai_qdc
 * **OAI Set**: p16877coll16
-* **OAI MODS Records**: 4
+* **Records Being Sent to DPLA**: 4
 
 
 
@@ -235,7 +235,7 @@ utc_p16877coll17
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16877.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p16877coll17&metadataPrefix=oai_qdc
 * **OAI Set**: p16877coll17
-* **OAI MODS Records**: 12
+* **Records Being Sent to DPLA**: 12
 
 
 
@@ -248,7 +248,7 @@ utc_p16877coll18
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16877.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p16877coll18&metadataPrefix=oai_qdc
 * **OAI Set**: p16877coll18
-* **OAI MODS Records**: 4
+* **Records Being Sent to DPLA**: 4
 
 
 
@@ -261,7 +261,7 @@ utc_p16877coll19
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16877.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p16877coll19&metadataPrefix=oai_qdc
 * **OAI Set**: p16877coll19
-* **OAI MODS Records**: 29
+* **Records Being Sent to DPLA**: 29
 
 
 
@@ -274,7 +274,7 @@ utc_p16877coll20
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16877.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p16877coll20&metadataPrefix=oai_qdc
 * **OAI Set**: p16877coll20
-* **OAI MODS Records**: 5
+* **Records Being Sent to DPLA**: 5
 
 
 
@@ -287,7 +287,7 @@ utc_p16877coll21
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16877.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p16877coll21&metadataPrefix=oai_qdc
 * **OAI Set**: p16877coll21
-* **OAI MODS Records**: 108
+* **Records Being Sent to DPLA**: 108
 
 
 
@@ -300,7 +300,7 @@ utc_p16877coll22
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16877.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p16877coll22&metadataPrefix=oai_qdc
 * **OAI Set**: p16877coll22
-* **OAI MODS Records**: 13
+* **Records Being Sent to DPLA**: 13
 
 
 
@@ -313,7 +313,7 @@ utc_p16877coll23
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16877.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p16877coll23&metadataPrefix=oai_qdc
 * **OAI Set**: p16877coll23
-* **OAI MODS Records**: 353
+* **Records Being Sent to DPLA**: 353
 
 
 
@@ -326,7 +326,7 @@ utc_p16877coll24
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16877.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p16877coll24&metadataPrefix=oai_qdc
 * **OAI Set**: p16877coll24
-* **OAI MODS Records**: 194
+* **Records Being Sent to DPLA**: 194
 
 
 
@@ -339,7 +339,7 @@ utc_p16877coll25
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16877.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p16877coll25&metadataPrefix=oai_qdc
 * **OAI Set**: p16877coll25
-* **OAI MODS Records**: 121
+* **Records Being Sent to DPLA**: 121
 
 
 
@@ -352,7 +352,7 @@ utc_p16877coll26
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16877.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p16877coll26&metadataPrefix=oai_qdc
 * **OAI Set**: p16877coll26
-* **OAI MODS Records**: 166
+* **Records Being Sent to DPLA**: 166
 
 
 
@@ -365,7 +365,7 @@ utc_p16877coll27
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16877.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p16877coll27&metadataPrefix=oai_qdc
 * **OAI Set**: p16877coll27
-* **OAI MODS Records**: 11
+* **Records Being Sent to DPLA**: 11
 
 
 
@@ -378,7 +378,7 @@ utc_p16877coll28
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16877.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p16877coll28&metadataPrefix=oai_qdc
 * **OAI Set**: p16877coll28
-* **OAI MODS Records**: 6
+* **Records Being Sent to DPLA**: 6
 
 
 
@@ -391,7 +391,7 @@ utc_p16877coll29
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16877.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p16877coll29&metadataPrefix=oai_qdc
 * **OAI Set**: p16877coll29
-* **OAI MODS Records**: 173
+* **Records Being Sent to DPLA**: 173
 
 
 
@@ -404,7 +404,7 @@ utc_p16877coll30
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16877.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p16877coll30&metadataPrefix=oai_qdc
 * **OAI Set**: p16877coll30
-* **OAI MODS Records**: 5
+* **Records Being Sent to DPLA**: 5
 
 
 
@@ -417,7 +417,7 @@ utc_p16877coll31
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16877.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p16877coll31&metadataPrefix=oai_qdc
 * **OAI Set**: p16877coll31
-* **OAI MODS Records**: 8
+* **Records Being Sent to DPLA**: 8
 
 
 

@@ -5,15 +5,15 @@ Details
 -------
 
 
-Email: Jami.Awalt@tn.gov
+**Email**: Jami.Awalt@tn.gov
 
-Description: contact: Jami Awalt platform: ContentDM
+**Description**: contact: Jami Awalt platform: ContentDM
 
-OAI endpoint: 
+**OAI endpoint**: 
 
-Total records in Repox: 17038
+**Total records in Repox**: 17038
 
-Page last updated: 2019-03-19
+**Page last updated**: 2019-03-19
 
 Datasets
 --------
@@ -27,7 +27,7 @@ tsla_agricult
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=agricult&metadataPrefix=oai_dc
 * **OAI Set**: agricult
-* **OAI MODS Records**: 84
+* **Records Being Sent to DPLA**: 84
 
 
 
@@ -40,7 +40,7 @@ tsla_bernhardt
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=bernhardt&metadataPrefix=oai_qdc
 * **OAI Set**: bernhardt
-* **OAI MODS Records**: 43
+* **Records Being Sent to DPLA**: 43
 
 
 
@@ -53,7 +53,7 @@ tsla_broadsides
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=broadsides&metadataPrefix=oai_dc
 * **OAI Set**: broadsides
-* **OAI MODS Records**: 90
+* **Records Being Sent to DPLA**: 90
 
 
 
@@ -66,7 +66,7 @@ tsla_centennial
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=Centennial&metadataPrefix=oai_dc
 * **OAI Set**: Centennial
-* **OAI MODS Records**: 51
+* **Records Being Sent to DPLA**: 51
 
 
 
@@ -79,7 +79,7 @@ tsla_conservarts
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=conservarts&metadataPrefix=oai_dc
 * **OAI Set**: conservarts
-* **OAI MODS Records**: 86
+* **Records Being Sent to DPLA**: 86
 
 
 
@@ -92,7 +92,7 @@ tsla_Fisk
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=Fisk&metadataPrefix=oai_qdc
 * **OAI Set**: Fisk
-* **OAI MODS Records**: 21
+* **Records Being Sent to DPLA**: 21
 
 
 
@@ -105,7 +105,7 @@ tsla_jimkey
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=jimkey&metadataPrefix=oai_dc
 * **OAI Set**: jimkey
-* **OAI MODS Records**: 25
+* **Records Being Sent to DPLA**: 25
 
 
 
@@ -118,7 +118,7 @@ tsla_johnson
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=johnson&metadataPrefix=oai_dc
 * **OAI Set**: johnson
-* **OAI MODS Records**: 41
+* **Records Being Sent to DPLA**: 41
 
 
 
@@ -131,7 +131,7 @@ tsla_mckenneyHal
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=mckenneyHal&metadataPrefix=oai_qdc
 * **OAI Set**: mckenneyHal
-* **OAI MODS Records**: 18
+* **Records Being Sent to DPLA**: 18
 
 
 
@@ -144,7 +144,7 @@ tsla_miersphotos
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=miersphotos&metadataPrefix=oai_dc
 * **OAI Set**: miersphotos
-* **OAI MODS Records**: 34
+* **Records Being Sent to DPLA**: 34
 
 
 
@@ -157,7 +157,7 @@ tsla_mitchener
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=mitchener&metadataPrefix=oai_dc
 * **OAI Set**: mitchener
-* **OAI MODS Records**: 79
+* **Records Being Sent to DPLA**: 79
 
 
 
@@ -170,7 +170,7 @@ tsla_Mustard
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=Mustard&metadataPrefix=oai_qdc
 * **OAI Set**: Mustard
-* **OAI MODS Records**: 43
+* **Records Being Sent to DPLA**: 43
 
 
 
@@ -183,7 +183,7 @@ tsla_p15138coll1
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15138coll1&metadataPrefix=oai_dc
 * **OAI Set**: p15138coll1
-* **OAI MODS Records**: 61
+* **Records Being Sent to DPLA**: 61
 
 
 
@@ -196,7 +196,7 @@ tsla_p15138coll10
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15138coll10&metadataPrefix=oai_dc
 * **OAI Set**: p15138coll10
-* **OAI MODS Records**: 106
+* **Records Being Sent to DPLA**: 106
 
 
 
@@ -209,7 +209,7 @@ tsla_p15138coll11
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15138coll11&metadataPrefix=oai_dc
 * **OAI Set**: p15138coll11
-* **OAI MODS Records**: 40
+* **Records Being Sent to DPLA**: 40
 
 
 
@@ -222,7 +222,7 @@ tsla_p15138coll12
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15138coll12&metadataPrefix=oai_dc
 * **OAI Set**: p15138coll12
-* **OAI MODS Records**: 48
+* **Records Being Sent to DPLA**: 48
 
 
 
@@ -235,7 +235,7 @@ tsla_p15138coll13
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15138coll13&metadataPrefix=oai_dc
 * **OAI Set**: p15138coll13
-* **OAI MODS Records**: 163
+* **Records Being Sent to DPLA**: 163
 
 
 
@@ -248,7 +248,7 @@ tsla_p15138coll14
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15138coll14&metadataPrefix=oai_qdc
 * **OAI Set**: p15138coll14
-* **OAI MODS Records**: 25
+* **Records Being Sent to DPLA**: 25
 
 
 
@@ -261,7 +261,7 @@ tsla_p15138coll15
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15138coll15&metadataPrefix=oai_dc
 * **OAI Set**: p15138coll15
-* **OAI MODS Records**: 25
+* **Records Being Sent to DPLA**: 25
 
 
 
@@ -274,7 +274,7 @@ tsla_p15138coll16
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15138coll16&metadataPrefix=oai_dc
 * **OAI Set**: p15138coll16
-* **OAI MODS Records**: 77
+* **Records Being Sent to DPLA**: 77
 
 
 
@@ -287,7 +287,7 @@ tsla_p15138coll18
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15138coll18&metadataPrefix=oai_dc
 * **OAI Set**: p15138coll18
-* **OAI MODS Records**: 755
+* **Records Being Sent to DPLA**: 755
 
 
 
@@ -300,7 +300,7 @@ tsla_p15138coll19
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15138coll19&metadataPrefix=oai_dc
 * **OAI Set**: p15138coll19
-* **OAI MODS Records**: 263
+* **Records Being Sent to DPLA**: 263
 
 
 
@@ -313,7 +313,7 @@ tsla_p15138coll20
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15138coll20&metadataPrefix=oai_dc
 * **OAI Set**: p15138coll20
-* **OAI MODS Records**: 12
+* **Records Being Sent to DPLA**: 12
 
 
 
@@ -326,7 +326,7 @@ tsla_p15138coll21
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15138coll21&metadataPrefix=oai_dc
 * **OAI Set**: p15138coll21
-* **OAI MODS Records**: 152
+* **Records Being Sent to DPLA**: 152
 
 
 
@@ -339,7 +339,7 @@ tsla_p15138coll22
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15138coll22&metadataPrefix=oai_dc
 * **OAI Set**: p15138coll22
-* **OAI MODS Records**: 142
+* **Records Being Sent to DPLA**: 142
 
 
 
@@ -352,7 +352,7 @@ tsla_p15138coll23
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15138coll23&metadataPrefix=oai_dc
 * **OAI Set**: p15138coll23
-* **OAI MODS Records**: 161
+* **Records Being Sent to DPLA**: 161
 
 
 
@@ -365,7 +365,7 @@ tsla_p15138coll24
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15138coll24&metadataPrefix=oai_qdc
 * **OAI Set**: p15138coll24
-* **OAI MODS Records**: 122
+* **Records Being Sent to DPLA**: 122
 
 
 
@@ -378,7 +378,7 @@ tsla_p15138coll25
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15138coll25&metadataPrefix=oai_qdc
 * **OAI Set**: p15138coll25
-* **OAI MODS Records**: 434
+* **Records Being Sent to DPLA**: 434
 
 
 
@@ -391,7 +391,7 @@ tsla_p15138coll26
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15138coll26&metadataPrefix=oai_qdc
 * **OAI Set**: p15138coll26
-* **OAI MODS Records**: 1169
+* **Records Being Sent to DPLA**: 1169
 
 
 
@@ -404,7 +404,7 @@ tsla_p15138coll27
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15138coll27&metadataPrefix=oai_qdc
 * **OAI Set**: p15138coll27
-* **OAI MODS Records**: 120
+* **Records Being Sent to DPLA**: 120
 
 
 
@@ -417,7 +417,7 @@ tsla_p15138coll29
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15138coll29&metadataPrefix=oai_qdc
 * **OAI Set**: p15138coll29
-* **OAI MODS Records**: 622
+* **Records Being Sent to DPLA**: 622
 
 
 
@@ -430,7 +430,7 @@ tsla_p15138coll3
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15138coll3&metadataPrefix=oai_dc
 * **OAI Set**: p15138coll3
-* **OAI MODS Records**: 42
+* **Records Being Sent to DPLA**: 42
 
 
 
@@ -443,7 +443,7 @@ tsla_p15138coll31
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15138coll31&metadataPrefix=oai_qdc
 * **OAI Set**: p15138coll31
-* **OAI MODS Records**: 276
+* **Records Being Sent to DPLA**: 276
 
 
 
@@ -456,7 +456,7 @@ tsla_p15138coll32
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15138coll32&metadataPrefix=oai_qdc
 * **OAI Set**: p15138coll32
-* **OAI MODS Records**: 196
+* **Records Being Sent to DPLA**: 196
 
 
 
@@ -469,7 +469,7 @@ tsla_p15138coll33
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15138coll33&metadataPrefix=oai_qdc
 * **OAI Set**: p15138coll33
-* **OAI MODS Records**: 113
+* **Records Being Sent to DPLA**: 113
 
 
 
@@ -482,7 +482,7 @@ tsla_p15138coll34
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15138coll34&metadataPrefix=oai_qdc
 * **OAI Set**: p15138coll34
-* **OAI MODS Records**: 30
+* **Records Being Sent to DPLA**: 30
 
 
 
@@ -495,7 +495,7 @@ tsla_p15138coll35
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15138coll35&metadataPrefix=oai_qdc
 * **OAI Set**: p15138coll35
-* **OAI MODS Records**: 1
+* **Records Being Sent to DPLA**: 1
 
 
 
@@ -508,7 +508,7 @@ tsla_p15138coll36
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15138coll36&metadataPrefix=oai_qdc
 * **OAI Set**: p15138coll36
-* **OAI MODS Records**: 38
+* **Records Being Sent to DPLA**: 38
 
 
 
@@ -521,7 +521,7 @@ tsla_p15138coll37
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15138coll37&metadataPrefix=oai_qdc
 * **OAI Set**: p15138coll37
-* **OAI MODS Records**: 30
+* **Records Being Sent to DPLA**: 30
 
 
 
@@ -534,7 +534,7 @@ tsla_p15138coll39
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15138coll39&metadataPrefix=oai_qdc
 * **OAI Set**: p15138coll39
-* **OAI MODS Records**: 3
+* **Records Being Sent to DPLA**: 3
 
 
 
@@ -547,7 +547,7 @@ tsla_p15138coll4
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15138coll4&metadataPrefix=oai_dc
 * **OAI Set**: p15138coll4
-* **OAI MODS Records**: 87
+* **Records Being Sent to DPLA**: 87
 
 
 
@@ -560,7 +560,7 @@ tsla_p15138coll40
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15138coll40&metadataPrefix=oai_qdc
 * **OAI Set**: p15138coll40
-* **OAI MODS Records**: 13
+* **Records Being Sent to DPLA**: 13
 
 
 
@@ -573,7 +573,7 @@ tsla_p15138coll41
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15138coll41&metadataPrefix=oai_qdc
 * **OAI Set**: p15138coll41
-* **OAI MODS Records**: 128
+* **Records Being Sent to DPLA**: 128
 
 
 
@@ -586,7 +586,7 @@ tsla_p15138coll42
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15138coll42&metadataPrefix=oai_qdc
 * **OAI Set**: p15138coll42
-* **OAI MODS Records**: 371
+* **Records Being Sent to DPLA**: 371
 
 
 
@@ -599,7 +599,7 @@ tsla_p15138coll43
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15138coll43&metadataPrefix=oai_qdc
 * **OAI Set**: p15138coll43
-* **OAI MODS Records**: 14
+* **Records Being Sent to DPLA**: 14
 
 
 
@@ -612,7 +612,7 @@ tsla_p15138coll44
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15138coll44&metadataPrefix=oai_qdc
 * **OAI Set**: p15138coll44
-* **OAI MODS Records**: 354
+* **Records Being Sent to DPLA**: 354
 
 
 
@@ -625,7 +625,7 @@ tsla_p15138coll45
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15138coll45&metadataPrefix=oai_dc
 * **OAI Set**: p15138coll45
-* **OAI MODS Records**: 53
+* **Records Being Sent to DPLA**: 53
 
 
 
@@ -638,7 +638,7 @@ tsla_p15138coll5
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15138coll5&metadataPrefix=oai_dc
 * **OAI Set**: p15138coll5
-* **OAI MODS Records**: 64
+* **Records Being Sent to DPLA**: 64
 
 
 
@@ -651,7 +651,7 @@ tsla_p15138coll6
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15138coll6&metadataPrefix=oai_dc
 * **OAI Set**: p15138coll6
-* **OAI MODS Records**: 3729
+* **Records Being Sent to DPLA**: 3729
 
 
 
@@ -664,7 +664,7 @@ tsla_p15138coll7
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15138coll7&metadataPrefix=oai_dc
 * **OAI Set**: p15138coll7
-* **OAI MODS Records**: 79
+* **Records Being Sent to DPLA**: 79
 
 
 
@@ -677,7 +677,7 @@ tsla_p15138coll8
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15138coll8&metadataPrefix=oai_dc
 * **OAI Set**: p15138coll8
-* **OAI MODS Records**: 40
+* **Records Being Sent to DPLA**: 40
 
 
 
@@ -690,7 +690,7 @@ tsla_p15138coll9
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15138coll9&metadataPrefix=oai_dc
 * **OAI Set**: p15138coll9
-* **OAI MODS Records**: 179
+* **Records Being Sent to DPLA**: 179
 
 
 
@@ -703,7 +703,7 @@ tsla_reconaa
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=reconaa&metadataPrefix=oai_dc
 * **OAI Set**: reconaa
-* **OAI MODS Records**: 64
+* **Records Being Sent to DPLA**: 64
 
 
 
@@ -716,7 +716,7 @@ tsla_rosemusic
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=rosemusic&metadataPrefix=oai_dc
 * **OAI Set**: rosemusic
-* **OAI MODS Records**: 27
+* **Records Being Sent to DPLA**: 27
 
 
 
@@ -729,7 +729,7 @@ tsla_schoolhouses
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=schoolhouses&metadataPrefix=oai_dc
 * **OAI Set**: schoolhouses
-* **OAI MODS Records**: 88
+* **Records Being Sent to DPLA**: 88
 
 
 
@@ -742,7 +742,7 @@ tsla_scopes
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=scopes&metadataPrefix=oai_dc
 * **OAI Set**: scopes
-* **OAI MODS Records**: 45
+* **Records Being Sent to DPLA**: 45
 
 
 
@@ -755,7 +755,7 @@ tsla_stateguard
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=StateGuard&metadataPrefix=oai_qdc
 * **OAI Set**: StateGuard
-* **OAI MODS Records**: 80
+* **Records Being Sent to DPLA**: 80
 
 
 
@@ -768,7 +768,7 @@ tsla_Strickland
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=Strickland&metadataPrefix=oai_qdc
 * **OAI Set**: Strickland
-* **OAI MODS Records**: 39
+* **Records Being Sent to DPLA**: 39
 
 
 
@@ -781,7 +781,7 @@ tsla_tfd
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=tfd&metadataPrefix=oai_dc
 * **OAI Set**: tfd
-* **OAI MODS Records**: 20
+* **Records Being Sent to DPLA**: 20
 
 
 
@@ -794,7 +794,7 @@ tsla_tpc
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=tpc&metadataPrefix=oai_dc
 * **OAI Set**: tpc
-* **OAI MODS Records**: 64
+* **Records Being Sent to DPLA**: 64
 
 
 
@@ -807,7 +807,7 @@ tsla_WWI
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=WWI&metadataPrefix=oai_dc
 * **OAI Set**: WWI
-* **OAI MODS Records**: 90
+* **Records Being Sent to DPLA**: 90
 
 
 

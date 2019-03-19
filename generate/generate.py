@@ -58,9 +58,9 @@ class DLTN:
             current_provider["id"]
         )
         return (
-            f"\nEmail: {current_provider['email']}\n\nDescription: {current_provider['description']}\n\nOAI "
-            f"endpoint: {current_provider['homepage']}\n\nTotal records in Repox: {total_records}\n\n"
-            f"Page last updated: {now}"
+            f"\n**Email**: {current_provider['email']}\n\n**Description**: {current_provider['description']}\n\n**OAI "
+            f"endpoint**: {current_provider['homepage']}\n\n**Total records in Repox**: {total_records}\n\n"
+            f"**Page last updated**: {now}"
         )
 
     @staticmethod
@@ -114,7 +114,7 @@ class DataSet:
                 f"{self.details['dataSource']['metadataFormat']}\n"
                 f"* **OAI Set**: {self.details['dataSource']['oaiSet']}\n"
             )
-        dataset_details += f"* **OAI MODS Records**: {total_mods}\n\n"
+        dataset_details += f"* **Records Being Sent to DPLA**: {total_mods}\n\n"
         return dataset_details
 
     @staticmethod
