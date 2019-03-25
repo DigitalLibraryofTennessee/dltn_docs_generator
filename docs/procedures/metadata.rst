@@ -50,6 +50,13 @@ that do not meet our minimum requirements.
 
    ../samples/variety
 
+----------
+Unit Tests
+----------
+
+All metadata transforms should be accompanied with a unit test. The unit test should test validity of the output of the
+sample data versus its associated xsl transform.  This unit test should be automatically executed by TravisCI and help
+simplify testing and limit mistakes before ingests.
 
 
 ----------
