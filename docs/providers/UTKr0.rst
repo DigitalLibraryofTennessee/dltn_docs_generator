@@ -5,15 +5,15 @@ Details
 -------
 
 
-**Email**: mbagget1@utk.edu
+**Email**: 
 
 **Description**: contact: Mark Baggett
 
 **OAI endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl
 
-**Total records in Repox**: 30421
+**Total records in Repox**: 26361
 
-**Page last updated**: 2019-03-19
+**Page last updated**: 2019-06-07
 
 Datasets
 --------
@@ -387,7 +387,7 @@ utk_kefauver
 * **Record Total**: 315
 * **In DPLA?**: True
 * **Metadata format**: mods
-* **Last ingest date**: 12/01/2017 16:08:20
+* **Last ingest date**: 04/25/2019 10:08:07
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=kefauver&metadataPrefix=mods
 * **OAI Set**: kefauver
@@ -430,7 +430,7 @@ utk_mugwump
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=mugwump&metadataPrefix=mods
 * **OAI Set**: mugwump
-* **Records Being Sent to DPLA**: 87
+* **Records Being Sent to DPLA**: 95
 
 
 
@@ -540,14 +540,14 @@ utk_scopes
 
 utk_smhc
 
-* **Record Total**: 181
+* **Record Total**: 182
 * **In DPLA?**: True
 * **Metadata format**: mods
-* **Last ingest date**: 12/01/2017 15:02:05
+* **Last ingest date**: 06/05/2019 16:18:08
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=smhc&metadataPrefix=mods
 * **OAI Set**: smhc
-* **Records Being Sent to DPLA**: 181
+* **Records Being Sent to DPLA**: 182
 
 
 
@@ -590,6 +590,19 @@ utk_tenncities
 
 
 
+utk_tennessean
+
+* **Record Total**: 12
+* **In DPLA?**: True
+* **Metadata format**: mods
+* **Last ingest date**: 06/06/2019 15:05:56
+* **Dataset Type**: OAI
+* **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=tennessean&metadataPrefix=mods
+* **OAI Set**: tennessean
+* **Records Being Sent to DPLA**: 12
+
+
+
 utk_tenngirl
 
 * **Record Total**: 24
@@ -613,6 +626,19 @@ utk_thompson
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=thompson&metadataPrefix=mods
 * **OAI Set**: thompson
 * **Records Being Sent to DPLA**: 401
+
+
+
+utk_torch
+
+* **Record Total**: 184
+* **In DPLA?**: True
+* **Metadata format**: mods
+* **Last ingest date**: 06/06/2019 15:25:11
+* **Dataset Type**: OAI
+* **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=torch&metadataPrefix=mods
+* **OAI Set**: torch
+* **Records Being Sent to DPLA**: 184
 
 
 
@@ -651,7 +677,7 @@ utk_vanvactor
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=vanvactor&metadataPrefix=mods
 * **OAI Set**: vanvactor
-* **Records Being Sent to DPLA**: 451
+* **Records Being Sent to DPLA**: 477
 
 
 
@@ -670,14 +696,14 @@ utk_voice
 
 utk_volvoices
 
-* **Record Total**: 8768
+* **Record Total**: 4399
 * **In DPLA?**: True
 * **Metadata format**: mods
-* **Last ingest date**: 03/18/2019 10:53:05
+* **Last ingest date**: 04/24/2019 12:33:38
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=volvoices&metadataPrefix=mods
 * **OAI Set**: volvoices
-* **Records Being Sent to DPLA**: 8768
+* **Records Being Sent to DPLA**: 4399
 
 
 
@@ -699,11 +725,24 @@ utk_wderfilms
 * **Record Total**: 14
 * **In DPLA?**: True
 * **Metadata format**: mods
-* **Last ingest date**: 03/05/2019 09:21:24
+* **Last ingest date**: 06/06/2019 15:10:11
 * **Dataset Type**: OAI
 * **OAI Endpoint**: https://digital.lib.utk.edu/collections/oai2?verb=ListRecords&set=gsmrc_wderfilms&metadataPrefix=mods
 * **OAI Set**: gsmrc_wderfilms
 * **Records Being Sent to DPLA**: 14
+
+
+
+utk_yrb
+
+* **Record Total**: 112
+* **In DPLA?**: True
+* **Metadata format**: mods
+* **Last ingest date**: 06/06/2019 15:10:26
+* **Dataset Type**: OAI
+* **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=yrb&metadataPrefix=mods
+* **OAI Set**: yrb
+* **Records Being Sent to DPLA**: 112
 
 
 

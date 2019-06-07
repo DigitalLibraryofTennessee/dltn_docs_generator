@@ -5,15 +5,15 @@ Details
 -------
 
 
-**Email**: Jami.Awalt@tn.gov
+**Email**: 
 
 **Description**: contact: Jami Awalt platform: ContentDM
 
 **OAI endpoint**: 
 
-**Total records in Repox**: 17038
+**Total records in Repox**: 17418
 
-**Page last updated**: 2019-03-19
+**Page last updated**: 2019-06-07
 
 Datasets
 --------
@@ -85,10 +85,10 @@ tsla_conservarts
 
 tsla_Fisk
 
-* **Record Total**: 0
+* **Record Total**: -79
 * **In DPLA?**: True
 * **Metadata format**: oai_qdc
-* **Last ingest date**: 11/09/2018 08:57:37
+* **Last ingest date**: 06/03/2019 16:30:44
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=Fisk&metadataPrefix=oai_qdc
 * **OAI Set**: Fisk
@@ -397,27 +397,27 @@ tsla_p15138coll26
 
 tsla_p15138coll27
 
-* **Record Total**: 187
+* **Record Total**: 257
 * **In DPLA?**: True
 * **Metadata format**: oai_qdc
-* **Last ingest date**: 12/04/2017 17:27:16
+* **Last ingest date**: 06/03/2019 17:02:29
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15138coll27&metadataPrefix=oai_qdc
 * **OAI Set**: p15138coll27
-* **Records Being Sent to DPLA**: 120
+* **Records Being Sent to DPLA**: 180
 
 
 
 tsla_p15138coll29
 
-* **Record Total**: 649
+* **Record Total**: 902
 * **In DPLA?**: True
 * **Metadata format**: oai_qdc
-* **Last ingest date**: 11/27/2018 15:49:37
+* **Last ingest date**: 06/03/2019 16:38:29
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15138coll29&metadataPrefix=oai_qdc
 * **OAI Set**: p15138coll29
-* **Records Being Sent to DPLA**: 622
+* **Records Being Sent to DPLA**: 873
 
 
 
@@ -527,14 +527,14 @@ tsla_p15138coll37
 
 tsla_p15138coll39
 
-* **Record Total**: 561
+* **Record Total**: 564
 * **In DPLA?**: True
 * **Metadata format**: oai_qdc
-* **Last ingest date**: 11/09/2018 09:17:52
+* **Last ingest date**: 06/03/2019 17:00:14
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15138coll39&metadataPrefix=oai_qdc
 * **OAI Set**: p15138coll39
-* **Records Being Sent to DPLA**: 3
+* **Records Being Sent to DPLA**: 6
 
 
 
@@ -556,7 +556,7 @@ tsla_p15138coll40
 * **Record Total**: 13
 * **In DPLA?**: True
 * **Metadata format**: oai_qdc
-* **Last ingest date**: 12/04/2017 16:53:15
+* **Last ingest date**: 06/03/2019 16:57:14
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15138coll40&metadataPrefix=oai_qdc
 * **OAI Set**: p15138coll40
@@ -620,12 +620,25 @@ tsla_p15138coll45
 
 * **Record Total**: 354
 * **In DPLA?**: True
-* **Metadata format**: oai_dc
-* **Last ingest date**: 11/09/2018 08:43:22
+* **Metadata format**: oai_qdc
+* **Last ingest date**: 04/17/2019 17:07:07
 * **Dataset Type**: OAI
-* **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15138coll45&metadataPrefix=oai_dc
+* **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15138coll45&metadataPrefix=oai_qdc
 * **OAI Set**: p15138coll45
 * **Records Being Sent to DPLA**: 53
+
+
+
+tsla_p15138coll47
+
+* **Record Total**: 77
+* **In DPLA?**: True
+* **Metadata format**: oai_qdc
+* **Last ingest date**: 06/03/2019 14:56:58
+* **Dataset Type**: OAI
+* **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15138coll47&metadataPrefix=oai_qdc
+* **OAI Set**: p15138coll47
+* **Records Being Sent to DPLA**: 77
 
 
 
@@ -696,14 +709,14 @@ tsla_p15138coll9
 
 tsla_reconaa
 
-* **Record Total**: 235
+* **Record Total**: 291
 * **In DPLA?**: True
 * **Metadata format**: oai_dc
-* **Last ingest date**: 07/10/2015 19:30:39
+* **Last ingest date**: 06/03/2019 16:35:14
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=reconaa&metadataPrefix=oai_dc
 * **OAI Set**: reconaa
-* **Records Being Sent to DPLA**: 64
+* **Records Being Sent to DPLA**: 78
 
 
 

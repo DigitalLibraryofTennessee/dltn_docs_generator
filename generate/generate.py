@@ -8,9 +8,15 @@ from lxml import etree
 
 settings = yaml.safe_load(open("../config.yml", "r"))
 repox_connection = Repox(settings["repox"], settings["username"], settings["password"])
-in_dpla = requests.get(
-    "https://raw.githubusercontent.com/dpla/ingestion/develop/profiles/tn.pjs"
-).json()["sets"]
+dpla_ingest3_sets = requests.get(
+    'https://raw.githubusercontent.com/DigitalLibraryofTennessee/dltn_ingestion3_config_generator/master/sets.yml'
+).content
+dpla_providers = yaml.safe_load(dpla_ingest3_sets)
+in_dpla = []
+for key, value in dpla_providers.items():
+    for yaml_set in value:
+        in_dpla.append(yaml_set)
+
 now = arrow.utcnow().to("US/Eastern").format("YYYY-MM-DD")
 generate_total_mods = settings["generate_mods_count"]
 

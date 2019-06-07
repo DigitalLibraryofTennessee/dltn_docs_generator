@@ -5,7 +5,7 @@ Details
 -------
 
 
-**Email**: trenthem@rhodes.edu
+**Email**: 
 
 **Description**: contact: Richie Trenthem platorm: DSPACE
 
@@ -13,7 +13,7 @@ Details
 
 **Total records in Repox**: 120151
 
-**Page last updated**: 2019-03-19
+**Page last updated**: 2019-06-07
 
 Datasets
 --------
@@ -302,27 +302,51 @@ crossroads_triangle
 
 
 
+rhodes_fansworth_MODS
+
+* **Record Total**: 0
+* **In DPLA?**: True
+* **Metadata format**: MODS
+* **Last ingest date**: 06/05/2019 13:33:22
+* **Dataset Type**: DIR
+* **Source Directory**: /vhosts/repoxdata/rhodes_mods/farnsworth_MODS
+* **Records Being Sent to DPLA**: 762
+
+
+
 rhodes_farnsworth
 
 * **Record Total**: 764
-* **In DPLA?**: True
+* **In DPLA?**: False
 * **Metadata format**: xoai
-* **Last ingest date**: 03/12/2019 11:43:45
+* **Last ingest date**: 06/05/2019 12:18:06
 * **Dataset Type**: DIR
 * **Source Directory**: /vhosts/repoxdata/rhodes_xoai/farnsworth
-* **Records Being Sent to DPLA**: 764
+* **Records Being Sent to DPLA**: 0
 
 
 
 rhodes_sternberg
 
 * **Record Total**: 740
-* **In DPLA?**: True
+* **In DPLA?**: False
 * **Metadata format**: xoai
-* **Last ingest date**: 03/12/2019 11:43:30
+* **Last ingest date**: 06/05/2019 12:20:21
 * **Dataset Type**: DIR
 * **Source Directory**: /vhosts/repoxdata/sternber
-* **Records Being Sent to DPLA**: 740
+* **Records Being Sent to DPLA**: 0
+
+
+
+rhodes_sternberg_MODS
+
+* **Record Total**: 0
+* **In DPLA?**: True
+* **Metadata format**: MODS
+* **Last ingest date**: 06/05/2019 14:34:37
+* **Dataset Type**: DIR
+* **Source Directory**: /vhosts/repoxdata/rhodes_mods/sternberg_MODS
+* **Records Being Sent to DPLA**: 738
 
 
 

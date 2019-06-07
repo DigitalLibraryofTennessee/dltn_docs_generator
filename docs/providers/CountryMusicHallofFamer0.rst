@@ -5,18 +5,31 @@ Details
 -------
 
 
-**Email**: Lee Boulie <lboulie@countrymusichalloffame.org>
+**Email**: 
 
 **Description**: contact: Lee Boulie platform: ContentDM
 
 **OAI endpoint**: http://digi.countrymusichalloffame.org/oai/oai.php
 
-**Total records in Repox**: 7927
+**Total records in Repox**: 28937
 
-**Page last updated**: 2019-03-19
+**Page last updated**: 2019-06-07
 
 Datasets
 --------
+
+cmhf_hatch
+
+* **Record Total**: 21010
+* **In DPLA?**: True
+* **Metadata format**: oai_qdc
+* **Last ingest date**: 05/29/2019 14:36:21
+* **Dataset Type**: OAI
+* **OAI Endpoint**: http://digi.countrymusichalloffame.org/oai/oai.php?verb=ListRecords&set=hatch3&metadataPrefix=oai_qdc
+* **OAI Set**: hatch3
+* **Records Being Sent to DPLA**: 19967
+
+
 
 cmhf_musicaudio
 
