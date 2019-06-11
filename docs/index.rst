@@ -20,6 +20,16 @@ To find objects from our awesome collections, check out the `DLTN portal <https:
 
 To see issues and ingestion schedules into DPLA, check out the `DLTN DPLA wiki space <https://digitalpubliclibraryofamerica.atlassian.net/wiki/spaces/CT/pages/85920546/Digital+Library+of+Tennessee+Dashboard>`_.
 
+----------------------------
+Quarterly Harvest Procedures
+----------------------------
+
+.. toctree::
+   :maxdepth: 2
+
+
+   quarterly_harvests
+
 
 --------------------
 Technical Procedures
