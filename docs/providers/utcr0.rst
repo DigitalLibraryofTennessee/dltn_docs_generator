@@ -5,7 +5,7 @@ Details
 -------
 
 
-**Email**: 
+**Email**: carolyn-runyon@utc.edu
 
 **Description**: contact: Carolyn Runyon platform: ContentDM
 
@@ -13,7 +13,7 @@ Details
 
 **Total records in Repox**: 15919
 
-**Page last updated**: 2019-06-07
+**Page last updated**: 2019-06-26
 
 Datasets
 --------

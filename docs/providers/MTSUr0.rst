@@ -5,7 +5,7 @@ Details
 -------
 
 
-**Email**: 
+**Email**: ken.middleton@mtsu.edu
 
 **Description**: contact: Ken Middleton platform: ContentDM
 
@@ -13,7 +13,7 @@ Details
 
 **Total records in Repox**: 7399
 
-**Page last updated**: 2019-06-07
+**Page last updated**: 2019-06-26
 
 Datasets
 --------

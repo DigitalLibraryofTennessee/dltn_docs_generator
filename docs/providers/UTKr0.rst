@@ -5,15 +5,15 @@ Details
 -------
 
 
-**Email**: 
+**Email**: mbagget1@utk.edu
 
 **Description**: contact: Mark Baggett
 
 **OAI endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl
 
-**Total records in Repox**: 26361
+**Total records in Repox**: 26558
 
-**Page last updated**: 2019-06-07
+**Page last updated**: 2019-06-26
 
 Datasets
 --------
@@ -236,6 +236,19 @@ utk_comm
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=utkcomm&metadataPrefix=mods
 * **OAI Set**: utkcomm
 * **Records Being Sent to DPLA**: 314
+
+
+
+utk_dabney
+
+* **Record Total**: 197
+* **In DPLA?**: True
+* **Metadata format**: mods
+* **Last ingest date**: 06/14/2019 11:35:56
+* **Dataset Type**: OAI
+* **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=dabney&metadataPrefix=mods
+* **OAI Set**: dabney
+* **Records Being Sent to DPLA**: 197
 
 
 

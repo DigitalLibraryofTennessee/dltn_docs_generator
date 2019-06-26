@@ -5,7 +5,7 @@ Details
 -------
 
 
-**Email**: 
+**Email**: trenthem@rhodes.edu
 
 **Description**: contact: Richie Trenthem platorm: DSPACE
 
@@ -13,7 +13,7 @@ Details
 
 **Total records in Repox**: 120151
 
-**Page last updated**: 2019-06-07
+**Page last updated**: 2019-06-26
 
 Datasets
 --------

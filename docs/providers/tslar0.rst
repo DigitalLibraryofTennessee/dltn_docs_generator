@@ -5,15 +5,15 @@ Details
 -------
 
 
-**Email**: 
+**Email**: Jami.Awalt@tn.gov
 
 **Description**: contact: Jami Awalt platform: ContentDM
 
 **OAI endpoint**: 
 
-**Total records in Repox**: 17418
+**Total records in Repox**: 17497
 
-**Page last updated**: 2019-06-07
+**Page last updated**: 2019-06-26
 
 Datasets
 --------
@@ -85,7 +85,7 @@ tsla_conservarts
 
 tsla_Fisk
 
-* **Record Total**: -79
+* **Record Total**: 0
 * **In DPLA?**: True
 * **Metadata format**: oai_qdc
 * **Last ingest date**: 06/03/2019 16:30:44
