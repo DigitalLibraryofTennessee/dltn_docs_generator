@@ -1,0 +1,29 @@
+June_2019
+=========
+
+This report shows all work completed during the quarter according to the `DLTN_XSLT issue tracker <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/>`_.
+
+1. `markpbaggett <https://github.com/markpbaggett>`_: `Add new manifests for new ContentDM objects. <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/187>`_
+2. `markpbaggett <https://github.com/markpbaggett>`_: `Rewrite UTC Tests so that All Sets are Tested <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/185>`_
+3. `mlhale7 <https://github.com/mlhale7>`_: `Add new sets for June ingest <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/181>`_
+4. `markpbaggett <https://github.com/markpbaggett>`_: `Transform originInfo/dataIssued to originInfo/dateCreated for UTK sets <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/178>`_
+5. `markpbaggett <https://github.com/markpbaggett>`_: `Country Music Hall of Fame Transform Can Result in Empty Physical Description Elements. <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/175>`_
+6. `markpbaggett <https://github.com/markpbaggett>`_: `TSLA p15138coll47 rights have semicolons <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/174>`_
+7. `markpbaggett <https://github.com/markpbaggett>`_: `Create DLTN Ingestion 3 Configuration <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/173>`_
+8. `markpbaggett <https://github.com/markpbaggett>`_: `usage="primary" or usage="primary display" <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/172>`_
+9. `markpbaggett <https://github.com/markpbaggett>`_: `Add Unit Test for CountryQDCtoMODS <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/170>`_
+10. `markpbaggett <https://github.com/markpbaggett>`_: `TSLA June 2019 Ingest <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/169>`_
+11. `markpbaggett <https://github.com/markpbaggett>`_: `Country Music Hall of Fame and Museum: adding Hatch dataset <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/168>`_
+12. `CanOfBees <https://github.com/CanOfBees>`_: `Update automated testing for UTK Sets <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/167>`_
+13. `markpbaggett <https://github.com/markpbaggett>`_: `dloai transform causing validity problems related to order in location node <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/165>`_
+14. `markpbaggett <https://github.com/markpbaggett>`_: `Header information missing from utk_wderfilms <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/164>`_
+15. `markpbaggett <https://github.com/markpbaggett>`_: `concat() acts weird when you pass it following axes <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/163>`_
+16. `markpbaggett <https://github.com/markpbaggett>`_: `Add initial unit test Framework for UTK. <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/160>`_
+17. `markpbaggett <https://github.com/markpbaggett>`_: `UTKmodstomods.xsl can't handle multiple role/roleTerms <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/159>`_
+18. `markpbaggett <https://github.com/markpbaggett>`_: `36 Records from VolVoices Still Missing Minmum Metadata <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/157>`_
+19. `markpbaggett <https://github.com/markpbaggett>`_: `tsla_p15138coll45 was added as oai_dc but has a qdc to MODS transform <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/156>`_
+20. `markpbaggett <https://github.com/markpbaggett>`_: `isShownAt Mapping requires both usage and access <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/154>`_
+21. `markpbaggett <https://github.com/markpbaggett>`_: `Thumbnails from Some Rhodes Sets Don't Resolve <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/152>`_
+22. `markpbaggett <https://github.com/markpbaggett>`_: `TSLA QDC to MODS transform results in a document that is not valid. <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/151>`_
+23. `markpbaggett <https://github.com/markpbaggett>`_: `Thinking about Automated Testing, Unit Tests, and DLTN_XSLT. <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/150>`_
+24. `markpbaggett <https://github.com/markpbaggett>`_: `UTC QDC to MODS transform results in non-valid document. <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/149>`_
