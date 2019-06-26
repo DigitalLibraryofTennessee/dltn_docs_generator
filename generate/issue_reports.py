@@ -12,14 +12,21 @@ class QuarterlyReport:
 
     """
 
-    def __init__(self, gh_user, gh_pass, milestone):
+    def __init__(self, gh_user, gh_pass, gh_token, milestone):
         self.milestone = milestone
-        self.gh_connection = Github(gh_user, gh_pass)
+        self.gh_connection = self.__authenticate(gh_user, gh_pass, gh_token)
         self.issues = (
             self.gh_connection.get_user("DigitalLibraryofTennessee")
             .get_repo("DLTN_XSLT")
             .get_issues(state="closed")
         )
+
+    @staticmethod
+    def __authenticate(user, password, token):
+        if token != "":
+            return Github(token)
+        else:
+            return Github(user, password)
 
     def process_issues(self):
         completed_issues = []
@@ -61,6 +68,9 @@ if __name__ == "__main__":
     parser.add_argument(
         "-p", "--password", dest="password", required=False, default=settings["gh_pass"]
     )
+    parser.add_argument(
+        "-a", "--access_token", dest="access_token", required=False, default=settings["gh_accesstoken"]
+    )
     args = parser.parse_args()
-    report = QuarterlyReport(args.username, args.password, args.milestone)
+    report = QuarterlyReport(args.username, args.password, args.access_token, args.milestone)
     report.process_issues()
