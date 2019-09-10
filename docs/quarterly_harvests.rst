@@ -30,6 +30,9 @@ required fields.
 If there are no bad records, the set can be added as is to Repox via OAI-PMH.  If there are any bad records, they must
 be fixed by the partner or we must harvest the good records with `check and harvest <https://github.com/DigitalLibraryofTennessee/check_and_harvest>`_.
 
+See the `Check and Harvest Instructions <https://dltn-technical-docs.readthedocs.io/en/latest/tools/check_and_harvest.html>`_
+for more information.
+
 Step Two: DLTN Metadata QA and Variety
 ======================================
 
@@ -106,6 +109,9 @@ Once testing is done, add the set to sets.yml in the `config repo <https://githu
 ----------------------------
 Reharvesting an Existing Set
 ----------------------------
+
+Step One: Run Check and Harvest
+===============================
 
 ------------------------------
 Sharing New Metadata with DPLA
