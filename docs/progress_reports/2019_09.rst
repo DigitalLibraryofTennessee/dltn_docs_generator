@@ -1,0 +1,16 @@
+2019_September
+==============
+
+This report shows all work completed during the quarter according to the `DLTN_XSLT issue tracker <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/>`_.
+
+1. `markpbaggett <https://github.com/markpbaggett>`_: `CMHF subject topic tokenizer doesn't work <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/204>`_
+2. `markpbaggett <https://github.com/markpbaggett>`_: `Update Procedures for Quarterly Harvests specifically for Check and Harvest <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/202>`_
+3. `mlhale7 <https://github.com/mlhale7>`_: `Add Catalogs to DPLA Server for TSLA and UTC for September 2019 <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/201>`_
+4. `mlhale7 <https://github.com/mlhale7>`_: `Adding items for September ingest <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/200>`_
+5. `markpbaggett <https://github.com/markpbaggett>`_: `Update IIIF manifests for UTC sets. <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/198>`_
+6. `markpbaggett <https://github.com/markpbaggett>`_: `Update IIIF manifests for TSLA. <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/196>`_
+7. `mlhale7 <https://github.com/mlhale7>`_: `Add p16877coll32 and Re-ingest p16877coll31 from UTC <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/195>`_
+8. `mlhale7 <https://github.com/mlhale7>`_: `September DPLA Ingest <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/193>`_
+9. `mlhale7 <https://github.com/mlhale7>`_: `Reharvest and Add TSLA Sets for September 2019 <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/192>`_
+10. `markpbaggett <https://github.com/markpbaggett>`_: `Address DLTN_XSLT-190. <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/191>`_
+11. `markpbaggett <https://github.com/markpbaggett>`_: `Ingestion3 expects titles in titleInfos with no attributes <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/190>`_
