@@ -20,6 +20,11 @@ class QuarterlyReport:
             .get_repo("DLTN_XSLT")
             .get_issues(state="closed")
         )
+        self.pulls = (
+                self.gh_connection.get_user("DigitalLibraryofTennessee")
+                .get_repo("DLTN_XSLT")
+                .get_pulls(state="closed")
+        )
 
     @staticmethod
     def __authenticate(user, password, token):
@@ -28,18 +33,27 @@ class QuarterlyReport:
         else:
             return Github(user, password)
 
-    def process_issues(self):
-        completed_issues = []
+    def process_issues_and_pull_requests(self):
+        completed_issues_and_pull_requests = []
         for issue in self.issues:
             try:
                 if issue.milestone.title == self.milestone:
-                    completed_issues.append(
+                    completed_issues_and_pull_requests.append(
                         f"`{issue.assignee.login} <https://github.com/{issue.assignee.login}>`_: "
                         f"`{issue.title} <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/{issue.number}>`_"
                     )
             except AttributeError:
                 pass
-        return self.__create_rst_doc(completed_issues)
+        for pull in self.pulls:
+            try:
+                if pull.milestone.title == self.milestone:
+                    completed_issues_and_pull_requests.append(
+                        f"`{pull.user.login} <https://github.com/{pull.user.login}>`_: "
+                        f"`{pull.title} <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/{pull.number}>`_"
+                    )
+            except AttributeError:
+                pass
+        return self.__create_rst_doc(completed_issues_and_pull_requests)
 
     def __create_rst_doc(self, issues):
         with open(
@@ -73,4 +87,4 @@ if __name__ == "__main__":
     )
     args = parser.parse_args()
     report = QuarterlyReport(args.username, args.password, args.access_token, args.milestone)
-    report.process_issues()
+    report.process_issues_and_pull_requests()
