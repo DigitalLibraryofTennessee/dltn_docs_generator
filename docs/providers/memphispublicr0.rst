@@ -9,11 +9,11 @@ Details
 
 **Description**: contact: ??? platform: ContentDM
 
-**OAI endpoint**: 
+**OAI endpoint**: http://cdm16108.contentdm.oclc.org:80/oai/oai.php
 
 **Total records in Repox**: 12285
 
-**Page last updated**: 2019-06-26
+**Page last updated**: 2019-09-20
 
 Datasets
 --------

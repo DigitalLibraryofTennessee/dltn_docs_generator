@@ -9,11 +9,11 @@ Details
 
 **Description**: 
 
-**OAI endpoint**: 
+**OAI endpoint**: http://nashville.contentdm.oclc.org/oai/oai.php
 
 **Total records in Repox**: 8614
 
-**Page last updated**: 2019-06-26
+**Page last updated**: 2019-09-20
 
 Datasets
 --------

@@ -11,35 +11,34 @@ Details
 
 **OAI endpoint**: http://digi.countrymusichalloffame.org/oai/oai.php
 
-**Total records in Repox**: 28937
+**Total records in Repox**: 30526
 
-**Page last updated**: 2019-06-26
+**Page last updated**: 2019-09-20
 
 Datasets
 --------
 
 cmhf_hatch
 
-* **Record Total**: 21010
+* **Record Total**: 21271
 * **In DPLA?**: True
 * **Metadata format**: oai_qdc
-* **Last ingest date**: 05/29/2019 14:36:21
-* **Dataset Type**: OAI
-* **OAI Endpoint**: http://digi.countrymusichalloffame.org/oai/oai.php?verb=ListRecords&set=hatch3&metadataPrefix=oai_qdc
-* **OAI Set**: hatch3
-* **Records Being Sent to DPLA**: 19967
+* **Last ingest date**: 09/16/2019 12:30:34
+* **Dataset Type**: DIR
+* **Source Directory**: /vhosts/repoxdata/cmhf_hatch
+* **Records Being Sent to DPLA**: 21271
 
 
 
 cmhf_musicaudio
 
-* **Record Total**: 7927
+* **Record Total**: 9255
 * **In DPLA?**: True
 * **Metadata format**: oai_qdc
-* **Last ingest date**: 12/14/2018 08:56:32
+* **Last ingest date**: 09/16/2019 12:09:34
 * **Dataset Type**: DIR
-* **Source Directory**: /vhosts/repoxdata/cmhf_qdc
-* **Records Being Sent to DPLA**: 7927
+* **Source Directory**: /vhosts/repoxdata/musicaudio
+* **Records Being Sent to DPLA**: 9255
 
 
 

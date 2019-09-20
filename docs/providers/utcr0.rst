@@ -5,15 +5,15 @@ Details
 -------
 
 
-**Email**: carolyn-runyon@utc.edu
+**Email**: 
 
 **Description**: contact: Carolyn Runyon platform: ContentDM
 
-**OAI endpoint**: 
+**OAI endpoint**: http://cdm16877.contentdm.oclc.org/oai/oai.php
 
-**Total records in Repox**: 15919
+**Total records in Repox**: 16156
 
-**Page last updated**: 2019-06-26
+**Page last updated**: 2019-09-20
 
 Datasets
 --------
@@ -410,14 +410,27 @@ utc_p16877coll30
 
 utc_p16877coll31
 
-* **Record Total**: 8
+* **Record Total**: 9
 * **In DPLA?**: True
 * **Metadata format**: oai_qdc
-* **Last ingest date**: 03/07/2019 08:19:45
+* **Last ingest date**: 08/08/2019 12:57:22
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16877.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p16877coll31&metadataPrefix=oai_qdc
 * **OAI Set**: p16877coll31
-* **Records Being Sent to DPLA**: 8
+* **Records Being Sent to DPLA**: 9
+
+
+
+utc_p16877coll32
+
+* **Record Total**: 236
+* **In DPLA?**: True
+* **Metadata format**: oai_qdc
+* **Last ingest date**: 08/08/2019 13:00:07
+* **Dataset Type**: OAI
+* **OAI Endpoint**: http://cdm16877.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p16877coll32&metadataPrefix=oai_qdc
+* **OAI Set**: p16877coll32
+* **Records Being Sent to DPLA**: 236
 
 
 
