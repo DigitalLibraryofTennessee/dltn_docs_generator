@@ -7,10 +7,19 @@ This report shows all work completed during the quarter according to the `DLTN_X
 2. `markpbaggett <https://github.com/markpbaggett>`_: `Update Procedures for Quarterly Harvests specifically for Check and Harvest <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/202>`_
 3. `mlhale7 <https://github.com/mlhale7>`_: `Add Catalogs to DPLA Server for TSLA and UTC for September 2019 <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/201>`_
 4. `mlhale7 <https://github.com/mlhale7>`_: `Adding items for September ingest <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/200>`_
-5. `markpbaggett <https://github.com/markpbaggett>`_: `Update IIIF manifests for UTC sets. <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/198>`_
-6. `markpbaggett <https://github.com/markpbaggett>`_: `Update IIIF manifests for TSLA. <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/196>`_
-7. `mlhale7 <https://github.com/mlhale7>`_: `Add p16877coll32 and Re-ingest p16877coll31 from UTC <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/195>`_
-8. `mlhale7 <https://github.com/mlhale7>`_: `September DPLA Ingest <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/193>`_
-9. `mlhale7 <https://github.com/mlhale7>`_: `Reharvest and Add TSLA Sets for September 2019 <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/192>`_
-10. `markpbaggett <https://github.com/markpbaggett>`_: `Address DLTN_XSLT-190. <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/191>`_
-11. `markpbaggett <https://github.com/markpbaggett>`_: `Ingestion3 expects titles in titleInfos with no attributes <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/190>`_
+5. `markpbaggett <https://github.com/markpbaggett>`_: `Add manifests from utc_p16877coll32. <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/199>`_
+6. `markpbaggett <https://github.com/markpbaggett>`_: `Update IIIF manifests for UTC sets. <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/198>`_
+7. `markpbaggett <https://github.com/markpbaggett>`_: `Tsla catalogs <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/197>`_
+8. `markpbaggett <https://github.com/markpbaggett>`_: `Update IIIF manifests for TSLA. <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/196>`_
+9. `mlhale7 <https://github.com/mlhale7>`_: `Add p16877coll32 and Re-ingest p16877coll31 from UTC <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/195>`_
+10. `mlhale7 <https://github.com/mlhale7>`_: `September DPLA Ingest <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/193>`_
+11. `mlhale7 <https://github.com/mlhale7>`_: `Reharvest and Add TSLA Sets for September 2019 <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/192>`_
+12. `markpbaggett <https://github.com/markpbaggett>`_: `Address DLTN_XSLT-190. <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/191>`_
+13. `markpbaggett <https://github.com/markpbaggett>`_: `Ingestion3 expects titles in titleInfos with no attributes <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/190>`_
+14. `markpbaggett <https://github.com/markpbaggett>`_: `Add logic incase trailing semicolon actually exists. <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/206>`_
+15. `markpbaggett <https://github.com/markpbaggett>`_: `Address DLTN_XSLT-204. <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/205>`_
+16. `mlhale7 <https://github.com/mlhale7>`_: `Add three new UTK sets for testing <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/203>`_
+17. `markpbaggett <https://github.com/markpbaggett>`_: `Add manifests from utc_p16877coll32. <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/199>`_
+18. `markpbaggett <https://github.com/markpbaggett>`_: `Tsla catalogs <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/197>`_
+19. `mlhale7 <https://github.com/mlhale7>`_: `Add coll28 (TSLA) and coll32 (UTC) to the testing list. <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/194>`_
+20. `markpbaggett <https://github.com/markpbaggett>`_: `Address DLTN_XSLT-190. <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/191>`_
