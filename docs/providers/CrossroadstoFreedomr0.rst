@@ -7,7 +7,7 @@ Details
 
 **Email**: 
 
-**Description**: contact: Corey Phillips platorm: DSPACE
+**Description**: contact: Corey Phillips platform: DSPACE
 
 **OAI endpoint**: http://dlynx.rhodes.edu:8080/oai/request
 
