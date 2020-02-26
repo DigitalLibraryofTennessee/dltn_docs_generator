@@ -11,9 +11,9 @@ Details
 
 **OAI endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl
 
-**Total records in Repox**: 27355
+**Total records in Repox**: 31229
 
-**Page last updated**: 2019-09-20
+**Page last updated**: 2020-02-26
 
 Datasets
 --------
@@ -109,6 +109,19 @@ utk_agrtfhs
 
 
 
+utk_agrtfn
+
+* **Record Total**: 3451
+* **In DPLA?**: True
+* **Metadata format**: mods
+* **Last ingest date**: 11/19/2019 09:23:05
+* **Dataset Type**: OAI
+* **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=agrtfn&metadataPrefix=mods
+* **OAI Set**: agrtfn
+* **Records Being Sent to DPLA**: 3451
+
+
+
 utk_agrutesc
 
 * **Record Total**: 225
@@ -150,10 +163,10 @@ utk_alumnus
 
 utk_arrow
 
-* **Record Total**: 0
+* **Record Total**: 316
 * **In DPLA?**: False
 * **Metadata format**: mods
-* **Last ingest date**: Does NOT exist: Last ingestion Date does NOT exist!
+* **Last ingest date**: 11/19/2019 09:33:20
 * **Dataset Type**: OAI
 * **OAI Endpoint**: https://digital.lib.utk.edu/collections/oai2?verb=ListRecords&set=arrowmont_arrow&metadataPrefix=mods
 * **OAI Set**: arrowmont_arrow
@@ -460,6 +473,19 @@ utk_knoxgardens
 
 
 
+utk_marchingband
+
+* **Record Total**: 98
+* **In DPLA?**: True
+* **Metadata format**: mods
+* **Last ingest date**: 11/19/2019 09:25:50
+* **Dataset Type**: OAI
+* **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=marchingband&metadataPrefix=mods
+* **OAI Set**: marchingband
+* **Records Being Sent to DPLA**: 98
+
+
+
 utk_mpabaker
 
 * **Record Total**: 245
@@ -743,6 +769,19 @@ utk_voice
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=voice&metadataPrefix=mods
 * **OAI Set**: voice
 * **Records Being Sent to DPLA**: 48
+
+
+
+utk_voloh
+
+* **Record Total**: 9
+* **In DPLA?**: False
+* **Metadata format**: mods
+* **Last ingest date**: 02/13/2020 16:25:47
+* **Dataset Type**: OAI
+* **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=voloh&metadataPrefix=mods
+* **OAI Set**: voloh
+* **Records Being Sent to DPLA**: 0
 
 
 
