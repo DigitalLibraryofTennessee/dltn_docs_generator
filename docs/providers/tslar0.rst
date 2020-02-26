@@ -11,9 +11,9 @@ Details
 
 **OAI endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php
 
-**Total records in Repox**: 34293
+**Total records in Repox**: 31340
 
-**Page last updated**: 2019-09-20
+**Page last updated**: 2020-02-26
 
 Datasets
 --------
@@ -114,7 +114,7 @@ tsla_mckenneyHal
 * **Record Total**: 0
 * **In DPLA?**: True
 * **Metadata format**: oai_qdc
-* **Last ingest date**: 12/04/2017 17:48:46
+* **Last ingest date**: 02/25/2020 15:31:41
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=mckenneyHal&metadataPrefix=oai_qdc
 * **OAI Set**: mckenneyHal
@@ -124,14 +124,14 @@ tsla_mckenneyHal
 
 tsla_miersphotos
 
-* **Record Total**: 34
+* **Record Total**: 71
 * **In DPLA?**: True
 * **Metadata format**: oai_dc
-* **Last ingest date**: 07/10/2015 19:18:24
+* **Last ingest date**: 02/25/2020 12:13:54
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=miersphotos&metadataPrefix=oai_dc
 * **OAI Set**: miersphotos
-* **Records Being Sent to DPLA**: 34
+* **Records Being Sent to DPLA**: 71
 
 
 
@@ -228,14 +228,14 @@ tsla_p15138coll13
 
 tsla_p15138coll14
 
-* **Record Total**: 26
+* **Record Total**: 50
 * **In DPLA?**: True
 * **Metadata format**: oai_qdc
-* **Last ingest date**: 11/09/2018 09:22:37
+* **Last ingest date**: 02/25/2020 13:45:25
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15138coll14&metadataPrefix=oai_qdc
 * **OAI Set**: p15138coll14
-* **Records Being Sent to DPLA**: 25
+* **Records Being Sent to DPLA**: 49
 
 
 
@@ -332,13 +332,13 @@ tsla_p15138coll22
 
 tsla_p15138coll23
 
-* **Record Total**: 4571
+* **Record Total**: 824
 * **In DPLA?**: True
-* **Metadata format**: oai_qdc
-* **Last ingest date**: 09/16/2019 13:51:35
+* **Metadata format**: MODS
+* **Last ingest date**: 11/24/2019 11:58:18
 * **Dataset Type**: DIR
-* **Source Directory**: /vhosts/repoxdata/coll23
-* **Records Being Sent to DPLA**: 4571
+* **Source Directory**: /vhosts/repoxdata/tsla_maps
+* **Records Being Sent to DPLA**: 824
 
 
 
@@ -383,14 +383,14 @@ tsla_p15138coll26
 
 tsla_p15138coll27
 
-* **Record Total**: 351
+* **Record Total**: 754
 * **In DPLA?**: True
 * **Metadata format**: oai_qdc
-* **Last ingest date**: 08/07/2019 11:54:47
+* **Last ingest date**: 02/25/2020 13:37:55
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15138coll27&metadataPrefix=oai_qdc
 * **OAI Set**: p15138coll27
-* **Records Being Sent to DPLA**: 216
+* **Records Being Sent to DPLA**: 218
 
 
 
@@ -399,7 +399,7 @@ tsla_p15138coll28
 * **Record Total**: 12541
 * **In DPLA?**: True
 * **Metadata format**: oai_qdc
-* **Last ingest date**: 08/07/2019 11:49:17
+* **Last ingest date**: 02/25/2020 15:28:41
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15138coll28&metadataPrefix=oai_qdc
 * **OAI Set**: p15138coll28
@@ -628,16 +628,29 @@ tsla_p15138coll45
 
 
 
+tsla_p15138coll46
+
+* **Record Total**: 175
+* **In DPLA?**: False
+* **Metadata format**: oai_qdc
+* **Last ingest date**: 02/25/2020 11:16:24
+* **Dataset Type**: OAI
+* **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15138coll46&metadataPrefix=oai_qdc
+* **OAI Set**: p15138coll46
+* **Records Being Sent to DPLA**: 0
+
+
+
 tsla_p15138coll47
 
-* **Record Total**: 77
+* **Record Total**: 78
 * **In DPLA?**: True
 * **Metadata format**: oai_qdc
-* **Last ingest date**: 06/03/2019 14:56:58
+* **Last ingest date**: 02/25/2020 13:54:25
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15138coll47&metadataPrefix=oai_qdc
 * **OAI Set**: p15138coll47
-* **Records Being Sent to DPLA**: 77
+* **Records Being Sent to DPLA**: 78
 
 
 
@@ -656,14 +669,14 @@ tsla_p15138coll5
 
 tsla_p15138coll6
 
-* **Record Total**: 4742
+* **Record Total**: 4854
 * **In DPLA?**: True
 * **Metadata format**: oai_dc
-* **Last ingest date**: 07/14/2017 14:52:20
+* **Last ingest date**: 02/25/2020 15:19:41
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15138coll6&metadataPrefix=oai_dc
 * **OAI Set**: p15138coll6
-* **Records Being Sent to DPLA**: 3729
+* **Records Being Sent to DPLA**: 3731
 
 
 
@@ -786,10 +799,10 @@ tsla_Strickland
 
 tsla_tfd
 
-* **Record Total**: 403
+* **Record Total**: 445
 * **In DPLA?**: True
 * **Metadata format**: oai_dc
-* **Last ingest date**: 07/16/2017 20:14:14
+* **Last ingest date**: 02/25/2020 15:21:26
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=tfd&metadataPrefix=oai_dc
 * **OAI Set**: tfd
