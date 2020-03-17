@@ -9,11 +9,11 @@ Details
 
 **Description**: contact: Jami Awalt platform: ContentDM
 
-**OAI endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php
+**OAI endpoint**: 
 
-**Total records in Repox**: 31340
+**Total records in Repox**: 31412
 
-**Page last updated**: 2020-02-26
+**Page last updated**: 2020-03-17
 
 Datasets
 --------
@@ -631,13 +631,13 @@ tsla_p15138coll45
 tsla_p15138coll46
 
 * **Record Total**: 175
-* **In DPLA?**: False
+* **In DPLA?**: True
 * **Metadata format**: oai_qdc
 * **Last ingest date**: 02/25/2020 11:16:24
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15138coll46&metadataPrefix=oai_qdc
 * **OAI Set**: p15138coll46
-* **Records Being Sent to DPLA**: 0
+* **Records Being Sent to DPLA**: 19
 
 
 
@@ -651,6 +651,19 @@ tsla_p15138coll47
 * **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15138coll47&metadataPrefix=oai_qdc
 * **OAI Set**: p15138coll47
 * **Records Being Sent to DPLA**: 78
+
+
+
+tsla_p15138coll48
+
+* **Record Total**: 72
+* **In DPLA?**: True
+* **Metadata format**: oai_qdc
+* **Last ingest date**: 03/02/2020 12:27:15
+* **Dataset Type**: OAI
+* **OAI Endpoint**: http://cdm15138.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p15138coll48&metadataPrefix=oai_qdc
+* **OAI Set**: p15138coll48
+* **Records Being Sent to DPLA**: 72
 
 
 
