@@ -11,9 +11,9 @@ Details
 
 **OAI endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl
 
-**Total records in Repox**: 31229
+**Total records in Repox**: 31833
 
-**Page last updated**: 2020-02-26
+**Page last updated**: 2020-03-17
 
 Datasets
 --------
@@ -775,13 +775,13 @@ utk_voice
 utk_voloh
 
 * **Record Total**: 9
-* **In DPLA?**: False
+* **In DPLA?**: True
 * **Metadata format**: mods
 * **Last ingest date**: 02/13/2020 16:25:47
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=voloh&metadataPrefix=mods
 * **OAI Set**: voloh
-* **Records Being Sent to DPLA**: 0
+* **Records Being Sent to DPLA**: 9
 
 
 
@@ -811,6 +811,19 @@ utk_vpmoore
 
 
 
+utk_wcc
+
+* **Record Total**: 90
+* **In DPLA?**: True
+* **Metadata format**: mods
+* **Last ingest date**: 03/10/2020 13:34:09
+* **Dataset Type**: OAI
+* **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=wcc&metadataPrefix=mods
+* **OAI Set**: wcc
+* **Records Being Sent to DPLA**: 90
+
+
+
 utk_wderfilms
 
 * **Record Total**: 14
@@ -821,6 +834,19 @@ utk_wderfilms
 * **OAI Endpoint**: https://digital.lib.utk.edu/collections/oai2?verb=ListRecords&set=gsmrc_wderfilms&metadataPrefix=mods
 * **OAI Set**: gsmrc_wderfilms
 * **Records Being Sent to DPLA**: 14
+
+
+
+utk_webster
+
+* **Record Total**: 514
+* **In DPLA?**: True
+* **Metadata format**: mods
+* **Last ingest date**: 03/05/2020 09:04:33
+* **Dataset Type**: OAI
+* **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=webster&metadataPrefix=mods
+* **OAI Set**: webster
+* **Records Being Sent to DPLA**: 514
 
 
 
