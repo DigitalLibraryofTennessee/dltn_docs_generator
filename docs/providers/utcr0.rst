@@ -9,11 +9,11 @@ Details
 
 **Description**: contact: Carolyn Runyon platform: ContentDM
 
-**OAI endpoint**: http://cdm16877.contentdm.oclc.org/oai/oai.php
+**OAI endpoint**: 
 
-**Total records in Repox**: 17110
+**Total records in Repox**: 17243
 
-**Page last updated**: 2020-02-26
+**Page last updated**: 2020-03-17
 
 Datasets
 --------
@@ -431,6 +431,19 @@ utc_p16877coll32
 * **OAI Endpoint**: http://cdm16877.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p16877coll32&metadataPrefix=oai_qdc
 * **OAI Set**: p16877coll32
 * **Records Being Sent to DPLA**: 343
+
+
+
+utc_p16877coll33
+
+* **Record Total**: 133
+* **In DPLA?**: True
+* **Metadata format**: oai_qdc
+* **Last ingest date**: 03/11/2020 15:59:10
+* **Dataset Type**: OAI
+* **OAI Endpoint**: http://cdm16877.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p16877coll33&metadataPrefix=oai_qdc
+* **OAI Set**: p16877coll33
+* **Records Being Sent to DPLA**: 41
 
 
 
