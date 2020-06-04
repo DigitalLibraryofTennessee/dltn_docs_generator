@@ -47,6 +47,28 @@ class DLTN:
                 )
         return
 
+    def generate_rst_page_for_one_provider(self, provider_id):
+        """Generate an rst page for one specific provider"""
+        for provider in tqdm(self.providers):
+            if provider_id == provider['id']:
+                print(
+                    emojize(
+                        f"\n\n\t:snake: Generating documentation for {provider['name']}: :snake:\n"
+                    )
+                )
+                with open(
+                            f"../docs/providers/{provider['id']}.rst", "w+"
+                    ) as provider_rst_file:
+                        provider_rst_file.write(f'{provider["name"]}\n')
+                        provider_rst_file.write("=" * len(provider["name"]))
+                        provider_rst_file.write(f"\n\nDetails\n-------\n\n")
+                        provider_rst_file.write(self.__generate_details_section(provider))
+                        provider_rst_file.write(f"\n\nDatasets\n--------\n\n")
+                        provider_rst_file.write(
+                            self.__generate_dataset_details_section(provider["id"])
+                        )
+        return
+
     @staticmethod
     def __generate_details_section(current_provider):
         """Generates top-level details section about the provider of provider rst files.
@@ -185,4 +207,5 @@ class OAIMODSCounter:
 
 
 if __name__ == "__main__":
-    DLTN("TNDPLAr0").generate_rst_page_for_each_provider()
+    #DLTN("TNDPLAr0").generate_rst_page_for_each_provider()
+    DLTN("TNDPLAr0").generate_rst_page_for_one_provider('memphispublicr0')
