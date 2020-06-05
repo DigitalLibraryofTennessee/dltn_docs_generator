@@ -5,6 +5,7 @@ from emoji import emojize
 import requests
 import arrow
 from lxml import etree
+import argparse
 
 settings = yaml.safe_load(open("../config.yml", "r"))
 repox_connection = Repox(settings["repox"], settings["username"], settings["password"])
@@ -199,5 +200,12 @@ class OAIMODSCounter:
 
 
 if __name__ == "__main__":
-    #DLTN("TNDPLAr0").generate_rst_page_for_each_provider()
-    DLTN("TNDPLAr0").generate_rst_page_for_one_provider('memphispublicr0')
+    parser = argparse.ArgumentParser(description="Generate Provider Reports for DLTN.")
+    parser.add_argument(
+        "-p", "--provider", dest="provider", required=False
+    )
+    args = parser.parse_args()
+    if args.provider:
+        DLTN("TNDPLAr0").generate_rst_page_for_one_provider(args.provider)
+    else:
+        DLTN("TNDPLAr0").generate_rst_page_for_each_provider()
