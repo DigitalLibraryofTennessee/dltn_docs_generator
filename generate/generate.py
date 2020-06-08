@@ -5,6 +5,7 @@ from emoji import emojize
 import requests
 import arrow
 from lxml import etree
+import argparse
 
 settings = yaml.safe_load(open("../config.yml", "r"))
 repox_connection = Repox(settings["repox"], settings["username"], settings["password"])
@@ -34,17 +35,19 @@ class DLTN:
             )
         )
         for provider in tqdm(self.providers):
-            with open(
-                f"../docs/providers/{provider['id']}.rst", "w+"
-            ) as provider_rst_file:
-                provider_rst_file.write(f'{provider["name"]}\n')
-                provider_rst_file.write("=" * len(provider["name"]))
-                provider_rst_file.write(f"\n\nDetails\n-------\n\n")
-                provider_rst_file.write(self.__generate_details_section(provider))
-                provider_rst_file.write(f"\n\nDatasets\n--------\n\n")
-                provider_rst_file.write(
-                    self.__generate_dataset_details_section(provider["id"])
+            self._write_rst_file(provider)
+        return
+
+    def generate_rst_page_for_one_provider(self, provider_id):
+        """Generate an rst page for one specific provider"""
+        for provider in tqdm(self.providers):
+            if provider_id == provider['id']:
+                print(
+                    emojize(
+                        f"\n\n\t:snake: Generating documentation for {provider['name']}: :snake:\n"
+                    )
                 )
+                self._write_rst_file(provider)
         return
 
     @staticmethod
@@ -89,6 +92,18 @@ class DLTN:
             current_set = DataSet(dataset["dataSource"]["id"])
             dataset_details += f"{current_set.generate_rst_for_set()}\n\n"
         return dataset_details
+
+    def _write_rst_file(self, a_provider):
+        with open(f"../docs/providers/{a_provider['id']}.rst", "w+") as provider_rst_file:
+            provider_rst_file.write(f'{a_provider["name"]}\n')
+            provider_rst_file.write("=" * len(a_provider["name"]))
+            provider_rst_file.write(f"\n\nDetails\n-------\n\n")
+            provider_rst_file.write(self.__generate_details_section(a_provider))
+            provider_rst_file.write(f"\n\nDatasets\n--------\n\n")
+            provider_rst_file.write(
+                self.__generate_dataset_details_section(a_provider["id"])
+            )
+        return
 
 
 class DataSet:
@@ -185,4 +200,12 @@ class OAIMODSCounter:
 
 
 if __name__ == "__main__":
-    DLTN("TNDPLAr0").generate_rst_page_for_each_provider()
+    parser = argparse.ArgumentParser(description="Generate Provider Reports for DLTN.")
+    parser.add_argument(
+        "-p", "--provider", dest="provider", required=False
+    )
+    args = parser.parse_args()
+    if args.provider:
+        DLTN("TNDPLAr0").generate_rst_page_for_one_provider(args.provider)
+    else:
+        DLTN("TNDPLAr0").generate_rst_page_for_each_provider()
