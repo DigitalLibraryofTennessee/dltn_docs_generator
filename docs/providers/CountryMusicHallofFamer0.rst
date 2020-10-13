@@ -7,13 +7,13 @@ Details
 
 **Email**: 
 
-**Description**: They use ContentDM.  Since Lee Boulie has left, we don't have a contact at the institution.  In hatch3, CMHF includes metadata records with restricted content attatched.  To ensure we don't share this with DPLA, we use check and harvest QDC harvester with the test restricted option.
+**Description**: They use ContentDM. Since Lee Boulie has left, we don't have a contact at the institution. In hatch3, CMHF includes metadata records with restricted content attatched. To ensure we don't share this with DPLA, we use check and harvest QDC harvester with the test restricted option.
 
 **OAI endpoint**: http://digi.countrymusichalloffame.org/oai/oai.php
 
 **Total records in Repox**: 35789
 
-**Page last updated**: 2020-03-17
+**Page last updated**: 2020-10-12
 
 Datasets
 --------

@@ -9,11 +9,11 @@ Details
 
 **Description**: contact: Steve Cotham platform: ContentDM
 
-**OAI endpoint**: http://cdm16311.contentdm.oclc.org:80/oai/oai.php
+**OAI endpoint**: 
 
 **Total records in Repox**: 6251
 
-**Page last updated**: 2019-09-20
+**Page last updated**: 2020-10-12
 
 Datasets
 --------

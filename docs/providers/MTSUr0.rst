@@ -9,11 +9,11 @@ Details
 
 **Description**: contact: Ken Middleton platform: ContentDM
 
-**OAI endpoint**: http://cdm15838.contentdm.oclc.org/oai/oai.php
+**OAI endpoint**: 
 
 **Total records in Repox**: 7399
 
-**Page last updated**: 2019-09-20
+**Page last updated**: 2020-10-12
 
 Datasets
 --------
