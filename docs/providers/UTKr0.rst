@@ -5,15 +5,15 @@ Details
 -------
 
 
-**Email**: mbagget1@utk.edu
+**Email**: 
 
 **Description**: contact: Mark Baggett
 
 **OAI endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl
 
-**Total records in Repox**: 31833
+**Total records in Repox**: 73242
 
-**Page last updated**: 2020-03-17
+**Page last updated**: 2020-10-12
 
 Datasets
 --------
@@ -23,7 +23,7 @@ bcpl
 * **Record Total**: 93
 * **In DPLA?**: True
 * **Metadata format**: mods
-* **Last ingest date**: 12/01/2017 09:38:03
+* **Last ingest date**: 09/28/2020 08:53:51
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=bcpl&metadataPrefix=mods
 * **OAI Set**: bcpl
@@ -111,14 +111,14 @@ utk_agrtfhs
 
 utk_agrtfn
 
-* **Record Total**: 3451
+* **Record Total**: 3450
 * **In DPLA?**: True
 * **Metadata format**: mods
-* **Last ingest date**: 11/19/2019 09:23:05
+* **Last ingest date**: 06/10/2020 14:37:51
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=agrtfn&metadataPrefix=mods
 * **OAI Set**: agrtfn
-* **Records Being Sent to DPLA**: 3451
+* **Records Being Sent to DPLA**: 3450
 
 
 
@@ -150,14 +150,14 @@ utk_airscoop
 
 utk_alumnus
 
-* **Record Total**: 386
+* **Record Total**: 397
 * **In DPLA?**: True
 * **Metadata format**: mods
-* **Last ingest date**: 06/04/2018 17:28:16
+* **Last ingest date**: 06/09/2020 15:10:47
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=alumnus&metadataPrefix=mods
 * **OAI Set**: alumnus
-* **Records Being Sent to DPLA**: 386
+* **Records Being Sent to DPLA**: 397
 
 
 
@@ -226,6 +226,32 @@ utk_brehm
 
 
 
+utk_burford
+
+* **Record Total**: 77
+* **In DPLA?**: True
+* **Metadata format**: mods
+* **Last ingest date**: 06/13/2020 10:35:13
+* **Dataset Type**: OAI
+* **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=burford&metadataPrefix=mods
+* **OAI Set**: burford
+* **Records Being Sent to DPLA**: 77
+
+
+
+utk_calahan
+
+* **Record Total**: 8
+* **In DPLA?**: True
+* **Metadata format**: mods
+* **Last ingest date**: 09/21/2020 15:50:41
+* **Dataset Type**: OAI
+* **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=calahan&metadataPrefix=mods
+* **OAI Set**: calahan
+* **Records Being Sent to DPLA**: 8
+
+
+
 utk_cdf
 
 * **Record Total**: 199
@@ -252,6 +278,19 @@ utk_charlie
 
 
 
+utk_civilwar
+
+* **Record Total**: 298
+* **In DPLA?**: True
+* **Metadata format**: mods
+* **Last ingest date**: 09/28/2020 08:37:20
+* **Dataset Type**: OAI
+* **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=civilwar&metadataPrefix=mods
+* **OAI Set**: civilwar
+* **Records Being Sent to DPLA**: 298
+
+
+
 utk_colloquy
 
 * **Record Total**: 34
@@ -270,7 +309,7 @@ utk_comm
 * **Record Total**: 314
 * **In DPLA?**: True
 * **Metadata format**: mods
-* **Last ingest date**: 09/12/2019 15:13:51
+* **Last ingest date**: 06/09/2020 15:18:02
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=utkcomm&metadataPrefix=mods
 * **OAI Set**: utkcomm
@@ -395,6 +434,19 @@ utk_garner
 
 
 
+utk_harp
+
+* **Record Total**: 1
+* **In DPLA?**: True
+* **Metadata format**: mods
+* **Last ingest date**: 09/21/2020 15:54:26
+* **Dataset Type**: OAI
+* **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=harp&metadataPrefix=mods
+* **OAI Set**: harp
+* **Records Being Sent to DPLA**: 1
+
+
+
 utk_hbs
 
 * **Record Total**: 207
@@ -418,6 +470,19 @@ utk_heilman
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=heilman&metadataPrefix=mods
 * **OAI Set**: heilman
 * **Records Being Sent to DPLA**: 1120
+
+
+
+utk_hesler
+
+* **Record Total**: 212
+* **In DPLA?**: True
+* **Metadata format**: mods
+* **Last ingest date**: 06/12/2020 08:04:47
+* **Dataset Type**: OAI
+* **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=hesler&metadataPrefix=mods
+* **OAI Set**: hesler
+* **Records Being Sent to DPLA**: 212
 
 
 
@@ -447,6 +512,31 @@ utk_indtruth
 
 
 
+utk_insurancena
+
+* **Record Total**: 141
+* **In DPLA?**: True
+* **Metadata format**: mods
+* **Last ingest date**: 09/28/2020 09:39:51
+* **Dataset Type**: OAI
+* **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=insurancena&metadataPrefix=mods
+* **OAI Set**: insurancena
+* **Records Being Sent to DPLA**: 141
+
+
+
+utk_jsevier
+
+* **Record Total**: 22
+* **In DPLA?**: True
+* **Metadata format**: mods
+* **Last ingest date**: 06/15/2020 12:02:16
+* **Dataset Type**: DIR
+* **Source Directory**: /vhosts/repoxdata/temp_dpla_records/jsevier
+* **Records Being Sent to DPLA**: 22
+
+
+
 utk_kefauver
 
 * **Record Total**: 315
@@ -457,6 +547,19 @@ utk_kefauver
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=kefauver&metadataPrefix=mods
 * **OAI Set**: kefauver
 * **Records Being Sent to DPLA**: 315
+
+
+
+utk_kintner
+
+* **Record Total**: 55
+* **In DPLA?**: True
+* **Metadata format**: mods
+* **Last ingest date**: 09/25/2020 14:15:17
+* **Dataset Type**: OAI
+* **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=kintner&metadataPrefix=mods
+* **OAI Set**: kintner
+* **Records Being Sent to DPLA**: 55
 
 
 
@@ -473,6 +576,32 @@ utk_knoxgardens
 
 
 
+utk_ladycross
+
+* **Record Total**: 26
+* **In DPLA?**: True
+* **Metadata format**: mods
+* **Last ingest date**: 09/25/2020 13:22:01
+* **Dataset Type**: OAI
+* **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=ladycross&metadataPrefix=mods
+* **OAI Set**: ladycross
+* **Records Being Sent to DPLA**: 26
+
+
+
+utk_ladytennis
+
+* **Record Total**: 32
+* **In DPLA?**: True
+* **Metadata format**: mods
+* **Last ingest date**: 09/25/2020 13:41:02
+* **Dataset Type**: OAI
+* **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=ladytennis&metadataPrefix=mods
+* **OAI Set**: ladytennis
+* **Records Being Sent to DPLA**: 32
+
+
+
 utk_marchingband
 
 * **Record Total**: 98
@@ -483,6 +612,58 @@ utk_marchingband
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=marchingband&metadataPrefix=mods
 * **OAI Set**: marchingband
 * **Records Being Sent to DPLA**: 98
+
+
+
+utk_menbase
+
+* **Record Total**: 31
+* **In DPLA?**: True
+* **Metadata format**: mods
+* **Last ingest date**: 09/25/2020 13:58:02
+* **Dataset Type**: OAI
+* **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=menbase&metadataPrefix=mods
+* **OAI Set**: menbase
+* **Records Being Sent to DPLA**: 31
+
+
+
+utk_menbball
+
+* **Record Total**: 50
+* **In DPLA?**: True
+* **Metadata format**: mods
+* **Last ingest date**: 05/13/2020 13:48:48
+* **Dataset Type**: OAI
+* **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=menbball&metadataPrefix=mods
+* **OAI Set**: menbball
+* **Records Being Sent to DPLA**: 50
+
+
+
+utk_mencross
+
+* **Record Total**: 30
+* **In DPLA?**: True
+* **Metadata format**: mods
+* **Last ingest date**: 09/25/2020 14:02:17
+* **Dataset Type**: OAI
+* **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=mencross&metadataPrefix=mods
+* **OAI Set**: mencross
+* **Records Being Sent to DPLA**: 30
+
+
+
+utk_mentrack
+
+* **Record Total**: 36
+* **In DPLA?**: True
+* **Metadata format**: mods
+* **Last ingest date**: 09/25/2020 14:07:47
+* **Dataset Type**: OAI
+* **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=mentrack&metadataPrefix=mods
+* **OAI Set**: mentrack
+* **Records Being Sent to DPLA**: 36
 
 
 
@@ -514,27 +695,27 @@ utk_mugwump
 
 utk_phoenix
 
-* **Record Total**: 128
+* **Record Total**: 136
 * **In DPLA?**: True
 * **Metadata format**: mods
-* **Last ingest date**: 03/07/2019 09:18:31
+* **Last ingest date**: 06/09/2020 15:13:32
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=phoenix&metadataPrefix=mods
 * **OAI Set**: phoenix
-* **Records Being Sent to DPLA**: 128
+* **Records Being Sent to DPLA**: 136
 
 
 
 utk_playbills
 
-* **Record Total**: 672
+* **Record Total**: 678
 * **In DPLA?**: True
 * **Metadata format**: mods
-* **Last ingest date**: 03/08/2018 12:03:35
+* **Last ingest date**: 06/09/2020 15:09:31
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=playbills&metadataPrefix=mods
 * **OAI Set**: playbills
-* **Records Being Sent to DPLA**: 672
+* **Records Being Sent to DPLA**: 678
 
 
 
@@ -551,6 +732,31 @@ utk_postcards
 
 
 
+utk_ramseyfp
+
+* **Record Total**: 210
+* **In DPLA?**: True
+* **Metadata format**: mods
+* **Last ingest date**: 06/15/2020 12:00:46
+* **Dataset Type**: DIR
+* **Source Directory**: /vhosts/repoxdata/temp_dpla_records/xsl-mods-ramsey
+* **Records Being Sent to DPLA**: 210
+
+
+
+utk_revwar
+
+* **Record Total**: 14
+* **In DPLA?**: True
+* **Metadata format**: mods
+* **Last ingest date**: 09/26/2020 14:34:32
+* **Dataset Type**: OAI
+* **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=revwar&metadataPrefix=mods
+* **OAI Set**: revwar
+* **Records Being Sent to DPLA**: 14
+
+
+
 utk_rfj
 
 * **Record Total**: 2
@@ -561,6 +767,19 @@ utk_rfj
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=rfj&metadataPrefix=mods
 * **OAI Set**: rfj
 * **Records Being Sent to DPLA**: 2
+
+
+
+utk_rmtravis
+
+* **Record Total**: 5
+* **In DPLA?**: True
+* **Metadata format**: mods
+* **Last ingest date**: 09/25/2020 14:19:47
+* **Dataset Type**: OAI
+* **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=rmtravis&metadataPrefix=mods
+* **OAI Set**: rmtravis
+* **Records Being Sent to DPLA**: 5
 
 
 
@@ -608,7 +827,7 @@ utk_scopes
 * **Record Total**: 678
 * **In DPLA?**: True
 * **Metadata format**: mods
-* **Last ingest date**: 12/01/2017 16:36:05
+* **Last ingest date**: 09/25/2020 13:49:47
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=scopes&metadataPrefix=mods
 * **OAI Set**: scopes
@@ -621,7 +840,7 @@ utk_smhc
 * **Record Total**: 182
 * **In DPLA?**: True
 * **Metadata format**: mods
-* **Last ingest date**: 06/05/2019 16:18:08
+* **Last ingest date**: 06/09/2020 15:19:32
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=smhc&metadataPrefix=mods
 * **OAI Set**: smhc
@@ -634,7 +853,7 @@ utk_sturley
 * **Record Total**: 67
 * **In DPLA?**: True
 * **Metadata format**: mods
-* **Last ingest date**: 08/29/2018 16:35:10
+* **Last ingest date**: 06/09/2020 15:04:31
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=sturley&metadataPrefix=mods
 * **OAI Set**: sturley
@@ -652,6 +871,32 @@ utk_swim
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=swim&metadataPrefix=mods
 * **OAI Set**: swim
 * **Records Being Sent to DPLA**: 42
+
+
+
+utk_tatum
+
+* **Record Total**: 7
+* **In DPLA?**: True
+* **Metadata format**: mods
+* **Last ingest date**: 09/25/2020 14:28:32
+* **Dataset Type**: OAI
+* **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=tatum&metadataPrefix=mods
+* **OAI Set**: tatum
+* **Records Being Sent to DPLA**: 7
+
+
+
+utk_tdh
+
+* **Record Total**: 1604
+* **In DPLA?**: True
+* **Metadata format**: mods
+* **Last ingest date**: 09/26/2020 14:35:17
+* **Dataset Type**: OAI
+* **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=tdh&metadataPrefix=mods
+* **OAI Set**: tdh
+* **Records Being Sent to DPLA**: 1604
 
 
 
@@ -709,14 +954,26 @@ utk_thompson
 
 utk_torch
 
-* **Record Total**: 184
+* **Record Total**: 191
 * **In DPLA?**: True
 * **Metadata format**: mods
-* **Last ingest date**: 06/06/2019 15:25:11
+* **Last ingest date**: 06/09/2020 15:15:47
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=torch&metadataPrefix=mods
 * **OAI Set**: torch
-* **Records Being Sent to DPLA**: 184
+* **Records Being Sent to DPLA**: 191
+
+
+
+utk_trace_digitalcommons
+
+* **Record Total**: 37855
+* **In DPLA?**: False
+* **Metadata format**: oai_qdc
+* **Last ingest date**: 03/23/2020 13:21:02
+* **Dataset Type**: DIR
+* **Source Directory**: /vhosts/repoxdata/utk_trace_xml
+* **Records Being Sent to DPLA**: 0
 
 
 
@@ -811,6 +1068,19 @@ utk_vpmoore
 
 
 
+utk_walden
+
+* **Record Total**: 5
+* **In DPLA?**: True
+* **Metadata format**: mods
+* **Last ingest date**: 09/25/2020 14:35:02
+* **Dataset Type**: OAI
+* **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=walden&metadataPrefix=mods
+* **OAI Set**: walden
+* **Records Being Sent to DPLA**: 5
+
+
+
 utk_wcc
 
 * **Record Total**: 90
@@ -842,11 +1112,37 @@ utk_webster
 * **Record Total**: 514
 * **In DPLA?**: True
 * **Metadata format**: mods
-* **Last ingest date**: 03/05/2020 09:04:33
+* **Last ingest date**: 06/11/2020 10:16:06
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=webster&metadataPrefix=mods
 * **OAI Set**: webster
 * **Records Being Sent to DPLA**: 514
+
+
+
+utk_womenbball
+
+* **Record Total**: 29
+* **In DPLA?**: True
+* **Metadata format**: mods
+* **Last ingest date**: 05/13/2020 13:56:17
+* **Dataset Type**: OAI
+* **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=womenbball&metadataPrefix=mods
+* **OAI Set**: womenbball
+* **Records Being Sent to DPLA**: 29
+
+
+
+utk_wwiioh
+
+* **Record Total**: 630
+* **In DPLA?**: True
+* **Metadata format**: mods
+* **Last ingest date**: 06/12/2020 07:36:17
+* **Dataset Type**: OAI
+* **OAI Endpoint**: http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl?verb=ListRecords&set=wwiioh&metadataPrefix=mods
+* **OAI Set**: wwiioh
+* **Records Being Sent to DPLA**: 630
 
 
 

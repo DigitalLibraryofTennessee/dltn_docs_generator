@@ -11,9 +11,9 @@ Details
 
 **OAI endpoint**: 
 
-**Total records in Repox**: 17243
+**Total records in Repox**: 17664
 
-**Page last updated**: 2020-03-17
+**Page last updated**: 2020-10-12
 
 Datasets
 --------
@@ -114,7 +114,7 @@ p16877coll8
 * **Record Total**: 255
 * **In DPLA?**: True
 * **Metadata format**: oai_qdc
-* **Last ingest date**: 03/13/2019 10:51:06
+* **Last ingest date**: 06/10/2020 10:58:48
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16877.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p16877coll8&metadataPrefix=oai_qdc
 * **OAI Set**: p16877coll8
@@ -348,7 +348,7 @@ utc_p16877coll26
 * **Record Total**: 166
 * **In DPLA?**: True
 * **Metadata format**: oai_qdc
-* **Last ingest date**: 03/13/2019 11:46:06
+* **Last ingest date**: 06/10/2020 11:00:03
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16877.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p16877coll26&metadataPrefix=oai_qdc
 * **OAI Set**: p16877coll26
@@ -358,14 +358,14 @@ utc_p16877coll26
 
 utc_p16877coll27
 
-* **Record Total**: 11
+* **Record Total**: 16
 * **In DPLA?**: True
 * **Metadata format**: oai_qdc
-* **Last ingest date**: 03/13/2019 11:47:51
+* **Last ingest date**: 06/10/2020 11:01:03
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16877.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p16877coll27&metadataPrefix=oai_qdc
 * **OAI Set**: p16877coll27
-* **Records Being Sent to DPLA**: 11
+* **Records Being Sent to DPLA**: 16
 
 
 
@@ -387,7 +387,7 @@ utc_p16877coll29
 * **Record Total**: 791
 * **In DPLA?**: True
 * **Metadata format**: oai_qdc
-* **Last ingest date**: 02/25/2020 10:37:08
+* **Last ingest date**: 06/10/2020 11:03:18
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16877.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p16877coll29&metadataPrefix=oai_qdc
 * **OAI Set**: p16877coll29
@@ -400,7 +400,7 @@ utc_p16877coll30
 * **Record Total**: 5
 * **In DPLA?**: True
 * **Metadata format**: oai_qdc
-* **Last ingest date**: 03/18/2019 10:25:49
+* **Last ingest date**: 06/10/2020 11:04:33
 * **Dataset Type**: OAI
 * **OAI Endpoint**: http://cdm16877.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p16877coll30&metadataPrefix=oai_qdc
 * **OAI Set**: p16877coll30
@@ -444,6 +444,71 @@ utc_p16877coll33
 * **OAI Endpoint**: http://cdm16877.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p16877coll33&metadataPrefix=oai_qdc
 * **OAI Set**: p16877coll33
 * **Records Being Sent to DPLA**: 41
+
+
+
+utc_p16877coll34
+
+* **Record Total**: 184
+* **In DPLA?**: True
+* **Metadata format**: oai_qdc
+* **Last ingest date**: 06/10/2020 10:30:18
+* **Dataset Type**: OAI
+* **OAI Endpoint**: http://cdm16877.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p16877coll34&metadataPrefix=oai_qdc
+* **OAI Set**: p16877coll34
+* **Records Being Sent to DPLA**: 57
+
+
+
+utc_p16877coll35
+
+* **Record Total**: 223
+* **In DPLA?**: True
+* **Metadata format**: oai_qdc
+* **Last ingest date**: 06/10/2020 10:42:33
+* **Dataset Type**: OAI
+* **OAI Endpoint**: http://cdm16877.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p16877coll35&metadataPrefix=oai_qdc
+* **OAI Set**: p16877coll35
+* **Records Being Sent to DPLA**: 117
+
+
+
+utc_p16877coll36
+
+* **Record Total**: 2
+* **In DPLA?**: True
+* **Metadata format**: oai_qdc
+* **Last ingest date**: 06/10/2020 10:48:33
+* **Dataset Type**: OAI
+* **OAI Endpoint**: http://cdm16877.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p16877coll36&metadataPrefix=oai_qdc
+* **OAI Set**: p16877coll36
+* **Records Being Sent to DPLA**: 2
+
+
+
+utc_p16877coll37
+
+* **Record Total**: 3
+* **In DPLA?**: True
+* **Metadata format**: oai_qdc
+* **Last ingest date**: 06/10/2020 10:51:48
+* **Dataset Type**: OAI
+* **OAI Endpoint**: http://cdm16877.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p16877coll37&metadataPrefix=oai_qdc
+* **OAI Set**: p16877coll37
+* **Records Being Sent to DPLA**: 3
+
+
+
+utc_p16877coll38
+
+* **Record Total**: 4
+* **In DPLA?**: True
+* **Metadata format**: oai_qdc
+* **Last ingest date**: 06/10/2020 10:54:48
+* **Dataset Type**: OAI
+* **OAI Endpoint**: http://cdm16877.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p16877coll38&metadataPrefix=oai_qdc
+* **OAI Set**: p16877coll38
+* **Records Being Sent to DPLA**: 4
 
 
 

@@ -7,13 +7,13 @@ Details
 
 **Email**: 
 
-**Description**: contact: ??? platform: ContentDM
+**Description**: contact: Gina Cordell platform: ContentDM
 
-**OAI endpoint**: http://cdm16108.contentdm.oclc.org:80/oai/oai.php
+**OAI endpoint**: 
 
-**Total records in Repox**: 12285
+**Total records in Repox**: 13406
 
-**Page last updated**: 2019-09-20
+**Page last updated**: 2020-10-12
 
 Datasets
 --------
@@ -262,6 +262,19 @@ Memphis Public Library p16108coll4
 * **OAI Endpoint**: http://cdm16108.contentdm.oclc.org:80/oai/oai.php?verb=ListRecords&set=p16108coll4&metadataPrefix=oai_dc
 * **OAI Set**: p16108coll4
 * **Records Being Sent to DPLA**: 521
+
+
+
+Memphis Public Library p16108coll5
+
+* **Record Total**: 1121
+* **In DPLA?**: False
+* **Metadata format**: oai_dc
+* **Last ingest date**: 09/28/2020 15:31:40
+* **Dataset Type**: OAI
+* **OAI Endpoint**: http://cdm16108.contentdm.oclc.org/oai/oai.php?verb=ListRecords&set=p16108coll5&metadataPrefix=oai_dc
+* **OAI Set**: p16108coll5
+* **Records Being Sent to DPLA**: 0
 
 
 

@@ -1,0 +1,16 @@
+2020_June
+=========
+
+This report shows all work completed during the quarter according to the `DLTN_XSLT issue tracker <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/>`_.
+
+1. `markpbaggett <https://github.com/markpbaggett>`_: `Missing Manifests in MTSU Catalogs <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/237>`_
+2. `markpbaggett <https://github.com/markpbaggett>`_: `Dltn 231 take2 <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/235>`_
+3. `mlhale7 <https://github.com/mlhale7>`_: `New and Existing Sets from UTC, June 2020  <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/234>`_
+4. `markpbaggett <https://github.com/markpbaggett>`_: `Travis validity tests for "curled" sets are not working <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/232>`_
+5. `markpbaggett <https://github.com/markpbaggett>`_: `Generate Brand New Catalog.xml files <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/231>`_
+6. `markpbaggett <https://github.com/markpbaggett>`_: `Edit IIIF links to reference presentation manifest <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/228>`_
+7. `mlhale7 <https://github.com/mlhale7>`_: `June Ingest <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/227>`_
+8. `markpbaggett <https://github.com/markpbaggett>`_: `Whats wrong with travis <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/240>`_
+9. `markpbaggett <https://github.com/markpbaggett>`_: `Update MTSU catalog. <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/239>`_
+10. `markpbaggett <https://github.com/markpbaggett>`_: `Dltn 231 take2 <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/235>`_
+11. `markpbaggett <https://github.com/markpbaggett>`_: `Address DLTN-231. <https://github.com/DigitalLibraryofTennessee/DLTN_XSLT/issues/233>`_
